@@ -1,17 +1,23 @@
 sequenceDiagram
   participant View as CopilotView
-  participant API as FastAPI /api/chat
-  participant Graph as discovery_graph
+  participant API as FastAPI
+  participant Flow as workflow.py
+  participant MCP as MCP stdio
   participant Data as restaurants.json
-  participant Web as Bing HTML
   View->>View: followUpContext from cards already shown
   View->>API: query, user_id, session_id, context
-  API->>Graph: run_discovery_graph
-  Graph->>Graph: intent and apply_history
-  Graph->>Data: filter then BM25
-  Data-->>Graph: canonical rows
-  Graph->>Web: search when the demo flag is on
-  Web-->>Graph: source pages or an error
-  Graph-->>API: answer, results, constraints, trace
-  API-->>View: ChatResponse JSON
-  View->>View: render cards and coordinate pins
+  API->>Flow: run_agent_workflow
+  Flow->>Flow: intent JSON, then parser lock
+  Note over Flow: missing area becomes Old Klang Road
+  Flow->>MCP: search_restaurants
+  MCP->>Data: hard filter, then BM25 or baseline
+  Data-->>MCP: canonical rows
+  MCP-->>Flow: ids and card fields
+  opt reviews requested and a unique name matches
+    Flow->>MCP: get_restaurant_reviews
+  end
+  Flow->>Flow: reorder retrieved ids only
+  Flow->>Flow: synthesis, or a labeled fallback
+  Flow-->>API: message, results, trace
+  API-->>View: ChatResponse
+  View->>View: prose, map pins, cards

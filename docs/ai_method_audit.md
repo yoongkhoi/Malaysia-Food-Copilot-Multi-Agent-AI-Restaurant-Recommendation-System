@@ -2,6 +2,8 @@
 
 Checked against the code on 2026-10-17. A name in a document is not treated as an implementation.
 
+The default path since then is `agents/workflow.py`: an intent model, an MCP tool loop, a ranking pass, and a final synthesis. Temperatures are 0.1, 0.2, 0.2, 0.7, and 0.5. This note records the methods that were present on the audit date. The current request path is [architecture.md](architecture.md).
+
 ## Zero-shot prompting
 
 Implemented. `review_preferences` in `src/food_copilot/agents/preference.py` and `recommend` in `src/food_copilot/agents/recommendation.py` send a system instruction and the user text. Neither prompt contains a worked input/output example.

@@ -1,20 +1,20 @@
 flowchart TD
-  user[Browser chat] --> vue[Vue CopilotView]
-  vue --> api[POST /api/chat]
-  api --> flags{ENABLE_LANGGRAPH and not ENABLE_LLM_AGENT}
-  flags -->|yes, demo path| graph[discovery_graph]
-  flags -->|LLM agent on| old[agents/graph.py or runtime.py]
-  flags -->|both off| direct[DiscoveryService]
-  graph --> intent[classify_intent]
-  intent -->|general question| general[Python or optional LLM answer]
-  intent -->|restaurant| history[apply_history]
-  history --> filter[hard constraints]
-  filter --> rank[BM25 or baseline]
-  rank --> web{ENABLE_WEB_SEARCH}
-  web -->|on| bing[Bing HTML sources]
-  web -->|off| match[match node]
-  bing --> match
-  match --> answer[deterministic answer text]
-  direct --> answer
-  old --> answer
-  answer --> cards[cards, map pins, evidence lines]
+  user[Browser] --> vue[Vue Explore or Copilot]
+  vue --> api[POST /api/chat or /api/discover]
+  api --> flag{ENABLE_AGENT_WORKFLOW}
+  flag -->|on, default| flow[agents/workflow.py]
+  flag -->|off| old{ENABLE_LANGGRAPH and not ENABLE_LLM_AGENT}
+  old -->|yes| graph[discovery_graph.py]
+  old -->|LLM agent on| legacy[agents/graph.py]
+  old -->|both off| direct[DiscoveryService]
+  flow --> intent[Intent model plus parser lock]
+  intent -->|general question| general[General answer, no retrieval]
+  intent -->|restaurant| tools[Discovery tool loop]
+  tools --> mcp[MCP stdio: search and reviews]
+  mcp --> rank[Rank retrieved ids only]
+  rank --> synth[Synthesis from supplied facts]
+  graph --> det[Filter, BM25, optional Bing, Python answer]
+  direct --> det
+  legacy --> det
+  synth --> cards[Reply, cards, map pins, evidence]
+  det --> cards
