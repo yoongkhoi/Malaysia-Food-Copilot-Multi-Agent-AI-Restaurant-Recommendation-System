@@ -1,0 +1,10 @@
+[project]
+name = "malaysia-food-copilot"
+version = "0.2.0"
+description = "Evidence-grounded restaurant discovery for Old Klang Road."
+requires-python = ">=3.11"
+readme = "README.md"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = [".", "src"]

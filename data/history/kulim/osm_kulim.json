@@ -1,0 +1,2054 @@
+[
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/1603441541",
+    "source_url": "https://www.openstreetmap.org/node/1603441541",
+    "name": "Nasi Kandar",
+    "amenity": "restaurant",
+    "cuisine_raw": "malay/indian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3686435,
+    "longitude": 100.5566729,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/1603441545",
+    "source_url": "https://www.openstreetmap.org/node/1603441545",
+    "name": "Nasi Kandar Pelita",
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3690524,
+    "longitude": 100.556324,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/1603441551",
+    "source_url": "https://www.openstreetmap.org/node/1603441551",
+    "name": "Soong Xian",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3788736,
+    "longitude": 100.542507,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/1603441564",
+    "source_url": "https://www.openstreetmap.org/node/1603441564",
+    "name": "Cendol",
+    "amenity": "restaurant",
+    "cuisine_raw": "cendol",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3573346,
+    "longitude": 100.5427156,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/1603441721",
+    "source_url": "https://www.openstreetmap.org/node/1603441721",
+    "name": null,
+    "amenity": "food_court",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3701556,
+    "longitude": 100.5537649,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/1603441725",
+    "source_url": "https://www.openstreetmap.org/node/1603441725",
+    "name": "Soon Lee",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.37091,
+    "longitude": 100.554596,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/1610799528",
+    "source_url": "https://www.openstreetmap.org/node/1610799528",
+    "name": "新记园海鲜饭店/Sin Kee Guan Resturant",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3779129,
+    "longitude": 100.5402028,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/1610799573",
+    "source_url": "https://www.openstreetmap.org/node/1610799573",
+    "name": "Nasi Lemak Mummy",
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3568068,
+    "longitude": 100.5424459,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/1610800642",
+    "source_url": "https://www.openstreetmap.org/node/1610800642",
+    "name": "宝宝饮食中心",
+    "amenity": "food_court",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": "Lorong Selasih 2a/1",
+      "city": "Kulim Kedah",
+      "postcode": "09000"
+    },
+    "latitude": 5.3766793,
+    "longitude": 100.5388375,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/3592093436",
+    "source_url": "https://www.openstreetmap.org/node/3592093436",
+    "name": "Tai Kah Hou Food & Drinks",
+    "amenity": "cafe",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4297621,
+    "longitude": 100.5333774,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/3619067505",
+    "source_url": "https://www.openstreetmap.org/node/3619067505",
+    "name": "Kedai Makanan dan Minuman",
+    "amenity": "cafe",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4405335,
+    "longitude": 100.5370749,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/3619158084",
+    "source_url": "https://www.openstreetmap.org/node/3619158084",
+    "name": "Smokehouse Restaurant",
+    "amenity": "cafe",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4284294,
+    "longitude": 100.5355598,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/3946503060",
+    "source_url": "https://www.openstreetmap.org/node/3946503060",
+    "name": "Desa Lunas Seafood",
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4362057,
+    "longitude": 100.5369417,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4038157989",
+    "source_url": "https://www.openstreetmap.org/node/4038157989",
+    "name": "Hock Kee",
+    "amenity": "fast_food",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4299707,
+    "longitude": 100.5327285,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4038205289",
+    "source_url": "https://www.openstreetmap.org/node/4038205289",
+    "name": "Shui Kopitiam",
+    "amenity": "cafe",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4294466,
+    "longitude": 100.5337314,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4038256789",
+    "source_url": "https://www.openstreetmap.org/node/4038256789",
+    "name": "Hun Tai",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4301424,
+    "longitude": 100.5324948,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4038356736",
+    "source_url": "https://www.openstreetmap.org/node/4038356736",
+    "name": "Restoran Itik Panggang Tan Kee",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4290688,
+    "longitude": 100.5347385,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4038474578",
+    "source_url": "https://www.openstreetmap.org/node/4038474578",
+    "name": "Medan Selera Taman Tunku Putra",
+    "amenity": "food_court",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3728777,
+    "longitude": 100.5574878,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4583709974",
+    "source_url": "https://www.openstreetmap.org/node/4583709974",
+    "name": "Nam King",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.512595,
+    "longitude": 100.5544591,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4583709987",
+    "source_url": "https://www.openstreetmap.org/node/4583709987",
+    "name": "Kopitiam",
+    "amenity": "fast_food",
+    "cuisine_raw": "chinese;coffee_shop",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.5110968,
+    "longitude": 100.5576521,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4583710706",
+    "source_url": "https://www.openstreetmap.org/node/4583710706",
+    "name": null,
+    "amenity": "fast_food",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.5265013,
+    "longitude": 100.572573,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4585534716",
+    "source_url": "https://www.openstreetmap.org/node/4585534716",
+    "name": null,
+    "amenity": "fast_food",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3450478,
+    "longitude": 100.538118,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4638905269",
+    "source_url": "https://www.openstreetmap.org/node/4638905269",
+    "name": "Nasi Kandar",
+    "amenity": "fast_food",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4188422,
+    "longitude": 100.5384781,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4638905272",
+    "source_url": "https://www.openstreetmap.org/node/4638905272",
+    "name": null,
+    "amenity": "restaurant",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4138217,
+    "longitude": 100.5421096,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4638905273",
+    "source_url": "https://www.openstreetmap.org/node/4638905273",
+    "name": "Original Coconut Shake",
+    "amenity": "cafe",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4137075,
+    "longitude": 100.5421261,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4638905275",
+    "source_url": "https://www.openstreetmap.org/node/4638905275",
+    "name": null,
+    "amenity": "fast_food",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4127041,
+    "longitude": 100.544095,
+    "opening_hours_raw": "24/7",
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4638905279",
+    "source_url": "https://www.openstreetmap.org/node/4638905279",
+    "name": "Restoran Kak Wan",
+    "amenity": "restaurant",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.411359,
+    "longitude": 100.5460741,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4638906571",
+    "source_url": "https://www.openstreetmap.org/node/4638906571",
+    "name": null,
+    "amenity": "fast_food",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4238215,
+    "longitude": 100.5372331,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4638930127",
+    "source_url": "https://www.openstreetmap.org/node/4638930127",
+    "name": null,
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4299014,
+    "longitude": 100.5327167,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4638930132",
+    "source_url": "https://www.openstreetmap.org/node/4638930132",
+    "name": "Is We Dessert Cafe",
+    "amenity": "cafe",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.429682,
+    "longitude": 100.5326655,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4638930133",
+    "source_url": "https://www.openstreetmap.org/node/4638930133",
+    "name": null,
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4291174,
+    "longitude": 100.5324904,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4638930138",
+    "source_url": "https://www.openstreetmap.org/node/4638930138",
+    "name": "Restoran Leong Kam Chuan",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese;coffee_shop",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4293921,
+    "longitude": 100.5328092,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4638930143",
+    "source_url": "https://www.openstreetmap.org/node/4638930143",
+    "name": "Seeni Mohamed Saga Ambalam",
+    "amenity": "restaurant",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": "09600"
+    },
+    "latitude": 5.4294079,
+    "longitude": 100.533195,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4638930151",
+    "source_url": "https://www.openstreetmap.org/node/4638930151",
+    "name": "Poh Family Restaurant",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4293811,
+    "longitude": 100.5348791,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4638930153",
+    "source_url": "https://www.openstreetmap.org/node/4638930153",
+    "name": "Restoran Hong Seng",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4293722,
+    "longitude": 100.5349752,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4644802623",
+    "source_url": "https://www.openstreetmap.org/node/4644802623",
+    "name": "Ken Fah Hen",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese;coffee_shop",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.5118678,
+    "longitude": 100.5544499,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4644802667",
+    "source_url": "https://www.openstreetmap.org/node/4644802667",
+    "name": "Laila Tomyam",
+    "amenity": "restaurant",
+    "cuisine_raw": "malaysian;thai",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4823896,
+    "longitude": 100.5433204,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4665596042",
+    "source_url": "https://www.openstreetmap.org/node/4665596042",
+    "name": "Eman's Kitchen",
+    "amenity": "restaurant",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.375492,
+    "longitude": 100.5389632,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4665596205",
+    "source_url": "https://www.openstreetmap.org/node/4665596205",
+    "name": "Nasi Kandar Shasima",
+    "amenity": "fast_food",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3846301,
+    "longitude": 100.5461367,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4665596211",
+    "source_url": "https://www.openstreetmap.org/node/4665596211",
+    "name": "Domino's",
+    "amenity": "fast_food",
+    "cuisine_raw": "pizza",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3860593,
+    "longitude": 100.5454064,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4665596213",
+    "source_url": "https://www.openstreetmap.org/node/4665596213",
+    "name": "Pizza Hut",
+    "amenity": "restaurant",
+    "cuisine_raw": "pizza",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.386241,
+    "longitude": 100.5466947,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4665596214",
+    "source_url": "https://www.openstreetmap.org/node/4665596214",
+    "name": "KFC",
+    "amenity": "fast_food",
+    "cuisine_raw": "chicken",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3856775,
+    "longitude": 100.5465889,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4665596215",
+    "source_url": "https://www.openstreetmap.org/node/4665596215",
+    "name": "6666 Seafood",
+    "amenity": "restaurant",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3875505,
+    "longitude": 100.5465823,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4665596216",
+    "source_url": "https://www.openstreetmap.org/node/4665596216",
+    "name": "Bawal Goreng Panas Pak Teh",
+    "amenity": "restaurant",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3941006,
+    "longitude": 100.5471024,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4670360931",
+    "source_url": "https://www.openstreetmap.org/node/4670360931",
+    "name": "Medan Selera Jalan Junjung",
+    "amenity": "food_court",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3510358,
+    "longitude": 100.5362251,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4674078465",
+    "source_url": "https://www.openstreetmap.org/node/4674078465",
+    "name": "Eco Coffee",
+    "amenity": "fast_food",
+    "cuisine_raw": "coffee_shop",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.372485,
+    "longitude": 100.5553952,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4674078475",
+    "source_url": "https://www.openstreetmap.org/node/4674078475",
+    "name": "Pizza Hut",
+    "amenity": "restaurant",
+    "cuisine_raw": "pizza",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3719282,
+    "longitude": 100.5551586,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4674079068",
+    "source_url": "https://www.openstreetmap.org/node/4674079068",
+    "name": "Nasi Kandar Mashyur Maju",
+    "amenity": "restaurant",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3614945,
+    "longitude": 100.5476683,
+    "opening_hours_raw": "24/7",
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4674080025",
+    "source_url": "https://www.openstreetmap.org/node/4674080025",
+    "name": "Restoran Nasi Kandar Kader Mydin",
+    "amenity": "restaurant",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3692347,
+    "longitude": 100.5545928,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4674917448",
+    "source_url": "https://www.openstreetmap.org/node/4674917448",
+    "name": null,
+    "amenity": "fast_food",
+    "cuisine_raw": "chinese;coffee_shop",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4184809,
+    "longitude": 100.5495596,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4674917449",
+    "source_url": "https://www.openstreetmap.org/node/4674917449",
+    "name": "GS Sree Kanthy Restaurant",
+    "amenity": "restaurant",
+    "cuisine_raw": "indian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4175756,
+    "longitude": 100.5495136,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4674917724",
+    "source_url": "https://www.openstreetmap.org/node/4674917724",
+    "name": "Mad Arif Char Kuay Tiaw",
+    "amenity": "fast_food",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3941723,
+    "longitude": 100.5465351,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4674917725",
+    "source_url": "https://www.openstreetmap.org/node/4674917725",
+    "name": "Idris Satay",
+    "amenity": "restaurant",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3918736,
+    "longitude": 100.5466938,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4677605036",
+    "source_url": "https://www.openstreetmap.org/node/4677605036",
+    "name": "Nasi Ayam Sungai Seluang",
+    "amenity": "fast_food",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4470204,
+    "longitude": 100.5521247,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4679528389",
+    "source_url": "https://www.openstreetmap.org/node/4679528389",
+    "name": null,
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3710983,
+    "longitude": 100.5546142,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4914687922",
+    "source_url": "https://www.openstreetmap.org/node/4914687922",
+    "name": "Full Wealth Restaurant",
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": "Lorong Kota Kenari 5/1",
+      "city": "Kulim",
+      "postcode": "09000"
+    },
+    "latitude": 5.3718856,
+    "longitude": 100.5683591,
+    "opening_hours_raw": "Mo-Su 12:00-14:30,17:30-22:00",
+    "phone": "+6044953249",
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4961013324",
+    "source_url": "https://www.openstreetmap.org/node/4961013324",
+    "name": "Restoran Lee Siew Chu",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.5120621,
+    "longitude": 100.5555573,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4961013342",
+    "source_url": "https://www.openstreetmap.org/node/4961013342",
+    "name": "Restoran Fu Lin Men",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.5113719,
+    "longitude": 100.5569145,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4977019141",
+    "source_url": "https://www.openstreetmap.org/node/4977019141",
+    "name": null,
+    "amenity": "fast_food",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4788474,
+    "longitude": 100.5427779,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4977019163",
+    "source_url": "https://www.openstreetmap.org/node/4977019163",
+    "name": "Kim Te Garden Restaurant",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.5017966,
+    "longitude": 100.5496082,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4977019168",
+    "source_url": "https://www.openstreetmap.org/node/4977019168",
+    "name": null,
+    "amenity": "fast_food",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.5018046,
+    "longitude": 100.544402,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4977019169",
+    "source_url": "https://www.openstreetmap.org/node/4977019169",
+    "name": null,
+    "amenity": "fast_food",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.5018713,
+    "longitude": 100.5429161,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/4977172971",
+    "source_url": "https://www.openstreetmap.org/node/4977172971",
+    "name": "Shahira Seafood 2",
+    "amenity": "restaurant",
+    "cuisine_raw": "malaysian;thai",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4433987,
+    "longitude": 100.5526055,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/5008580274",
+    "source_url": "https://www.openstreetmap.org/node/5008580274",
+    "name": "Sungai Dua Char Koay Teow",
+    "amenity": "fast_food",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3994978,
+    "longitude": 100.5567723,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/5055157774",
+    "source_url": "https://www.openstreetmap.org/node/5055157774",
+    "name": "Kedai Pokok Manggis",
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3626771,
+    "longitude": 100.5484575,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/5248119423",
+    "source_url": "https://www.openstreetmap.org/node/5248119423",
+    "name": "Nurul Ikan Bakar Special",
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4197778,
+    "longitude": 100.538164,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/5886203805",
+    "source_url": "https://www.openstreetmap.org/node/5886203805",
+    "name": null,
+    "amenity": "fast_food",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3617652,
+    "longitude": 100.5376992,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/6031343985",
+    "source_url": "https://www.openstreetmap.org/node/6031343985",
+    "name": "RM Sepakat",
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.474385,
+    "longitude": 101.5147037,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/6069943685",
+    "source_url": "https://www.openstreetmap.org/node/6069943685",
+    "name": "The Six Hunan Ramen",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.5124305,
+    "longitude": 100.6270208,
+    "opening_hours_raw": "24/7",
+    "phone": "042931317",
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/6261555987",
+    "source_url": "https://www.openstreetmap.org/node/6261555987",
+    "name": "KFC",
+    "amenity": "fast_food",
+    "cuisine_raw": "chicken",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.5155389,
+    "longitude": 100.5437335,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/7020338111",
+    "source_url": "https://www.openstreetmap.org/node/7020338111",
+    "name": "Restoran Kong Ming",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3881491,
+    "longitude": 100.5658684,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/7020374105",
+    "source_url": "https://www.openstreetmap.org/node/7020374105",
+    "name": null,
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4218992,
+    "longitude": 100.6370365,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/7134803752",
+    "source_url": "https://www.openstreetmap.org/node/7134803752",
+    "name": "Kedai Makanan Sayur-Sayuran Ee Sin",
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3708457,
+    "longitude": 100.5563296,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/8762101770",
+    "source_url": "https://www.openstreetmap.org/node/8762101770",
+    "name": "Mykori Dessert Cafe",
+    "amenity": "cafe",
+    "cuisine_raw": "dessert",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3857306,
+    "longitude": 100.5453313,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/8762101771",
+    "source_url": "https://www.openstreetmap.org/node/8762101771",
+    "name": "Starbucks",
+    "amenity": "cafe",
+    "cuisine_raw": "coffee_shop",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3858464,
+    "longitude": 100.5466741,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/8762101772",
+    "source_url": "https://www.openstreetmap.org/node/8762101772",
+    "name": "The Chicken Rice Shop",
+    "amenity": "fast_food",
+    "cuisine_raw": "malaysian;chicken_rice",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3859561,
+    "longitude": 100.5467895,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/9571403156",
+    "source_url": "https://www.openstreetmap.org/node/9571403156",
+    "name": "KFC",
+    "amenity": "fast_food",
+    "cuisine_raw": "chicken",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3622731,
+    "longitude": 100.5268864,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/9571403264",
+    "source_url": "https://www.openstreetmap.org/node/9571403264",
+    "name": "96饮食中心/Ninetysix",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3769045,
+    "longitude": 100.5386448,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/9678874617",
+    "source_url": "https://www.openstreetmap.org/node/9678874617",
+    "name": "ROTI CANAI DESAKU",
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.5064812,
+    "longitude": 100.6238418,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/9981009023",
+    "source_url": "https://www.openstreetmap.org/node/9981009023",
+    "name": "Streeto Pizza",
+    "amenity": "fast_food",
+    "cuisine_raw": "malaysian;pizza",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4320827,
+    "longitude": 100.5494687,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12041042679",
+    "source_url": "https://www.openstreetmap.org/node/12041042679",
+    "name": "Sate Ajo",
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.4737463,
+    "longitude": 101.5044737,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12313717405",
+    "source_url": "https://www.openstreetmap.org/node/12313717405",
+    "name": "故乡味粿條屋/HomeTown Koay Teow Kopitiam",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3780386,
+    "longitude": 100.5402402,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12350340631",
+    "source_url": "https://www.openstreetmap.org/node/12350340631",
+    "name": "KFC",
+    "amenity": "fast_food",
+    "cuisine_raw": "chicken",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3720924,
+    "longitude": 100.5543634,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12637844170",
+    "source_url": "https://www.openstreetmap.org/node/12637844170",
+    "name": "Pondok Sarapan Berkah",
+    "amenity": "restaurant",
+    "cuisine_raw": "indonesian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.4748743,
+    "longitude": 101.5029252,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12637844171",
+    "source_url": "https://www.openstreetmap.org/node/12637844171",
+    "name": "Ratu Mime Coffee & Resto",
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.475002,
+    "longitude": 101.5026735,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12637844172",
+    "source_url": "https://www.openstreetmap.org/node/12637844172",
+    "name": "Warung Kopi & Sarapan Bude Ani",
+    "amenity": "restaurant",
+    "cuisine_raw": "coffee_shop",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.4755465,
+    "longitude": 101.5011942,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12637844194",
+    "source_url": "https://www.openstreetmap.org/node/12637844194",
+    "name": "Warung Kopi Nira Aren",
+    "amenity": "cafe",
+    "cuisine_raw": "coffee_shop",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.4766141,
+    "longitude": 101.4989275,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12637844196",
+    "source_url": "https://www.openstreetmap.org/node/12637844196",
+    "name": "Sarapan Pagi Zea",
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.4766318,
+    "longitude": 101.4988581,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12637887710",
+    "source_url": "https://www.openstreetmap.org/node/12637887710",
+    "name": "Sarapan Pagi Buk Yus",
+    "amenity": "restaurant",
+    "cuisine_raw": "indonesian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.4766204,
+    "longitude": 101.4980688,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12637887725",
+    "source_url": "https://www.openstreetmap.org/node/12637887725",
+    "name": "Sarapan Pagi Oma",
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.4768675,
+    "longitude": 101.4977948,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12637887727",
+    "source_url": "https://www.openstreetmap.org/node/12637887727",
+    "name": "Ampera Rasokanlah Dulu",
+    "amenity": "restaurant",
+    "cuisine_raw": "indonesian;padang",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.4767985,
+    "longitude": 101.4975143,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12637887732",
+    "source_url": "https://www.openstreetmap.org/node/12637887732",
+    "name": "Warung Soto Bunda",
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.4770799,
+    "longitude": 101.4973506,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12637887749",
+    "source_url": "https://www.openstreetmap.org/node/12637887749",
+    "name": "Ampera 10000",
+    "amenity": "restaurant",
+    "cuisine_raw": "indonesian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.4771637,
+    "longitude": 101.496537,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12637887755",
+    "source_url": "https://www.openstreetmap.org/node/12637887755",
+    "name": "Nasi Goreng Da-N",
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.4772478,
+    "longitude": 101.4963391,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12637887756",
+    "source_url": "https://www.openstreetmap.org/node/12637887756",
+    "name": "Dwi Putra",
+    "amenity": "restaurant",
+    "cuisine_raw": "breakfast",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.4772361,
+    "longitude": 101.4963823,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12637887766",
+    "source_url": "https://www.openstreetmap.org/node/12637887766",
+    "name": "Warung Kopi 3 Bersaudara",
+    "amenity": "cafe",
+    "cuisine_raw": "coffee_shop",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.4772787,
+    "longitude": 101.495922,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12646998557",
+    "source_url": "https://www.openstreetmap.org/node/12646998557",
+    "name": "Mixue",
+    "amenity": "cafe",
+    "cuisine_raw": "ice_cream;bubble_tea",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4290424,
+    "longitude": 100.5348484,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/12650204557",
+    "source_url": "https://www.openstreetmap.org/node/12650204557",
+    "name": "ZUS Coffee",
+    "amenity": "cafe",
+    "cuisine_raw": "coffee_shop",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3722044,
+    "longitude": 100.5550084,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/13325277801",
+    "source_url": "https://www.openstreetmap.org/node/13325277801",
+    "name": "Min Yen Restaurant",
+    "amenity": "restaurant",
+    "cuisine_raw": "chinese",
+    "address_raw": {
+      "street": "Lorong Selasih C/1",
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3774251,
+    "longitude": 100.5378588,
+    "opening_hours_raw": "Th-Tu 11:00-14:00, 17:00-22:00",
+    "phone": "+60 4-490 4567;+60 10-566 4620",
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "node/13390680006",
+    "source_url": "https://www.openstreetmap.org/node/13390680006",
+    "name": "小人国 小小煮炒",
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4300296,
+    "longitude": 100.5331237,
+    "opening_hours_raw": "Mo-Th,Sa-Su 07:00-14:00; Mo-Th,Sa-Su 17:00-22:00",
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "way/473255715",
+    "source_url": "https://www.openstreetmap.org/way/473255715",
+    "name": "Nasi Kandar Haja",
+    "amenity": "restaurant",
+    "cuisine_raw": "malaysian",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.370403,
+    "longitude": 100.5550751,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "way/473365792",
+    "source_url": "https://www.openstreetmap.org/way/473365792",
+    "name": "Yi Zhi Yan",
+    "amenity": "cafe",
+    "cuisine_raw": "asian;bird_nest",
+    "address_raw": {
+      "street": "Jalan Tunku Putra",
+      "city": "KULIM",
+      "postcode": "09000"
+    },
+    "latitude": 5.3741832,
+    "longitude": 100.5549416,
+    "opening_hours_raw": "Mo-Fr 08:00-18:00",
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "way/526075457",
+    "source_url": "https://www.openstreetmap.org/way/526075457",
+    "name": "McDonald's",
+    "amenity": "fast_food",
+    "cuisine_raw": "burger",
+    "address_raw": {
+      "street": "Jalan Klc 1,",
+      "city": "Kulim, Kedah",
+      "postcode": "09000"
+    },
+    "latitude": 5.3830623,
+    "longitude": 100.5458609,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "way/527804719",
+    "source_url": "https://www.openstreetmap.org/way/527804719",
+    "name": "Nasi Kandar Nasmir",
+    "amenity": "restaurant",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3801218,
+    "longitude": 100.5432891,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "way/668733467",
+    "source_url": "https://www.openstreetmap.org/way/668733467",
+    "name": "Dapur Gerabak",
+    "amenity": "food_court",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4010657,
+    "longitude": 100.5491354,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "way/1035747892",
+    "source_url": "https://www.openstreetmap.org/way/1035747892",
+    "name": "KFC",
+    "amenity": "fast_food",
+    "cuisine_raw": "chicken",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4125305,
+    "longitude": 100.5446976,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "way/1035747898",
+    "source_url": "https://www.openstreetmap.org/way/1035747898",
+    "name": "Medan Selera Lunas",
+    "amenity": "food_court",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4284255,
+    "longitude": 100.5364692,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "way/1173967558",
+    "source_url": "https://www.openstreetmap.org/way/1173967558",
+    "name": "4Fingers Crispy Chicken",
+    "amenity": "fast_food",
+    "cuisine_raw": "chicken",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3838922,
+    "longitude": 100.5462663,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "way/1271924043",
+    "source_url": "https://www.openstreetmap.org/way/1271924043",
+    "name": "CH Food Factory",
+    "amenity": "food_court",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.4333634,
+    "longitude": 100.5493937,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "way/1314592288",
+    "source_url": "https://www.openstreetmap.org/way/1314592288",
+    "name": null,
+    "amenity": "food_court",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3702575,
+    "longitude": 100.5323789,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "way/1318923919",
+    "source_url": "https://www.openstreetmap.org/way/1318923919",
+    "name": null,
+    "amenity": "cafe",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.4703834,
+    "longitude": 101.5017955,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "way/1327163679",
+    "source_url": "https://www.openstreetmap.org/way/1327163679",
+    "name": "新西圜飲食城/Selasih foodcourt City",
+    "amenity": "food_court",
+    "cuisine_raw": null,
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 5.3765624,
+    "longitude": 100.5374734,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "way/1381055799",
+    "source_url": "https://www.openstreetmap.org/way/1381055799",
+    "name": "Bakso 31",
+    "amenity": "restaurant",
+    "cuisine_raw": "noodle",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.468003,
+    "longitude": 101.5104162,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  },
+  {
+    "source": "OpenStreetMap",
+    "source_id": "way/1386883554",
+    "source_url": "https://www.openstreetmap.org/way/1386883554",
+    "name": "Hanafa Smoothies",
+    "amenity": "fast_food",
+    "cuisine_raw": "juice",
+    "address_raw": {
+      "street": null,
+      "city": null,
+      "postcode": null
+    },
+    "latitude": 0.4986146,
+    "longitude": 101.481055,
+    "opening_hours_raw": null,
+    "phone": null,
+    "collected_at": "2026-10-09T16:17:29.426614+00:00"
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "manual_review_rule": "A group was reviewed from its shared location string and the canonical address fields. Review prose was not read for every row. No match-accuracy percentage is claimed.",
+  "confirmed_correct_groups": 0,
+  "incorrect_groups": 0,
+  "unresolved_groups": 2,
+  "unresolved_rows": 800,
+  "rows_with_restaurant_id": 0,
+  "groups": [
+    {
+      "judgment": "unresolved",
+      "restaurant_name": "ABC Bistro Cafe",
+      "rows": 300,
+      "sample_review_ids": ["RV-b7da7bece477c04d", "RV-6fb5b38aa5cd32a9", "RV-d4c94c5ce4e8f315"],
+      "location_text": "106, Jalan Tun Sambanthan, Brickfields, Kuala Lumpur",
+      "candidates": [
+        {
+          "restaurant_id": "MY-OSM-node-5328588221",
+          "address": "Jalan Tun Sambanthan, 50470",
+          "latitude": 3.1326357,
+          "longitude": 101.6877913,
+          "location_verified": false
+        },
+        {
+          "restaurant_id": "MY-OSM-node-10833459765",
+          "address": null,
+          "latitude": 3.1521364,
+          "longitude": 101.6976399,
+          "location_verified": false
+        }
+      ],
+      "note": "The review names house 106 on Jalan Tun Sambanthan. One canonical row has that street and no house number. The other has the same name, no address, and coordinates about 2 km away, so the street overlap could not exclude it. Previously all 300 rows were attached to MY-OSM-node-5328588221. That attachment is withdrawn."
+    },
+    {
+      "judgment": "unresolved",
+      "restaurant_name": "RSMY",
+      "rows": 500,
+      "sample_review_ids": ["RV-e7da03627a69d970", "RV-f56805214de2884f", "RV-408a162f3a033e3f"],
+      "location_text": "11&13, Jalan Medan Tuanku, Medan Tuanku, Kuala Lumpur",
+      "candidates": [
+        {
+          "restaurant_id": "MY-OSM-node-6620552485",
+          "address": "Jalan Medan Tuanku"
+        },
+        {
+          "restaurant_id": "MY-OSM-node-3446379359",
+          "address": "Jalan Bunus 6"
+        }
+      ],
+      "note": "The review street agrees with one address and conflicts with Jalan Bunus 6. The canonical Medan Tuanku row has no house number, so 11&13 was not checked. These rows stay unattached. They were already unattached before this pass; only the status name changed after generic words such as jalan stopped counting as a street match."
+    }
+  ],
+  "after_prepare": {
+    "unique_name_in_area": 22297,
+    "street_overlap_unconfirmed": 800,
+    "ambiguous_branch": 3489,
+    "matched_restaurants_with_ratings": 124,
+    "canonical_written": false
+  }
+}

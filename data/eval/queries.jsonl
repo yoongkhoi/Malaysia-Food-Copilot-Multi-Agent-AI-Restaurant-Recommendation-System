@@ -1,0 +1,5 @@
+{"query":"Find a family restaurant under RM20 near Old Klang Road","region":"old_klang_road","budget_max_rm":20,"relevant_restaurant_ids":[],"note":"relevant_restaurant_ids must be filled after human review. Being inside the corridor is not the same as satisfying the budget."}
+{"query":"kedai makan murah untuk keluarga di Old Klang Road","region":"old_klang_road","budget_max_rm":20,"relevant_restaurant_ids":[],"note":"Malay query. IDs are still empty."}
+{"query":"旧巴生路适合家庭吃饭、每人 RM20 以下的餐厅","region":"old_klang_road","budget_max_rm":20,"relevant_restaurant_ids":[],"note":"Chinese query. IDs are still empty."}
+{"query":"Old Klang Road 有没有 RM20 bawah 的 vegetarian food","region":"old_klang_road","budget_max_rm":20,"relevant_restaurant_ids":[],"note":"Mixed-language query. IDs are still empty."}
+{"query":"Kuala Lumpur verified halal restaurant under RM25","region":"kuala_lumpur","budget_max_rm":25,"require_halal_verified":true,"relevant_restaurant_ids":[],"note":"Expansion region. Unknown halal status is not a match."}

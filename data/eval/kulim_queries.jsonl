@@ -1,0 +1,3 @@
+{"query":"Find a family meal in Kulim under RM20","expected_city":"Kulim","max_budget_myr":20,"family":true,"relevant_restaurant_ids":[]}
+{"query":"帮我找 Kulim 附近 RM20 以内、适合家庭吃饭的餐厅","expected_city":"Kulim","max_budget_myr":20,"family":true,"relevant_restaurant_ids":[]}
+{"query":"Kulim halal certified restaurant under RM25","expected_city":"Kulim","max_budget_myr":25,"require_halal_verified":true,"relevant_restaurant_ids":[]}

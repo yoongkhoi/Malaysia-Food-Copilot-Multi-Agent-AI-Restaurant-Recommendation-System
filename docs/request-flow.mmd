@@ -1,0 +1,17 @@
+sequenceDiagram
+  participant View as CopilotView
+  participant API as FastAPI /api/chat
+  participant Graph as discovery_graph
+  participant Data as restaurants.json
+  participant Web as Bing HTML
+  View->>View: followUpContext from cards already shown
+  View->>API: query, user_id, session_id, context
+  API->>Graph: run_discovery_graph
+  Graph->>Graph: intent and apply_history
+  Graph->>Data: filter then BM25
+  Data-->>Graph: canonical rows
+  Graph->>Web: search when the demo flag is on
+  Web-->>Graph: source pages or an error
+  Graph-->>API: answer, results, constraints, trace
+  API-->>View: ChatResponse JSON
+  View->>View: render cards and coordinate pins

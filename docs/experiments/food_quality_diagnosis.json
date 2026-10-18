@@ -1,0 +1,184 @@
+{
+  "adopted": false,
+  "decision": "No variant put any of the five labeled reviews inside K=10. Query expansion to tasty made three of the top 10 lack the word delicious. The default BM25 settings stay.",
+  "bm25_note": "BM25Retriever does not drop stop words. delicious appears in 545 pilot reviews and food in 2700. The top 20 are short reviews whose whole text is essentially delicious food. The five labels are longer Positano reviews, ranks 286 to 455.",
+  "vector_ranks": {
+    "minilm": {
+      "RV-997ac96af00a47d4": 3286,
+      "RV-7d4a6b182e267914": 3111,
+      "RV-f47408e272f2cdda": 3367,
+      "RV-6453acdebc5ce59b": 3366,
+      "RV-1c766a60f4bc6227": 2461
+    },
+    "multilingual_minilm": {
+      "RV-997ac96af00a47d4": 1815,
+      "RV-7d4a6b182e267914": 1773,
+      "RV-f47408e272f2cdda": 1246,
+      "RV-6453acdebc5ce59b": 3451,
+      "RV-1c766a60f4bc6227": 3003
+    },
+    "hybrid": "Both BM25 and vector ranks are outside the candidate pool of 20, so hybrid RRF at K=10 does not include these five ids."
+  },
+  "variants": [
+    {
+      "query": "delicious food",
+      "k1": 1.5,
+      "b": 0.75,
+      "drop_food_token": false,
+      "latency_ms": 1446.6,
+      "label_ranks": {
+        "RV-1c766a60f4bc6227": 286,
+        "RV-6453acdebc5ce59b": 455,
+        "RV-7d4a6b182e267914": 369,
+        "RV-997ac96af00a47d4": 396,
+        "RV-f47408e272f2cdda": 402
+      },
+      "recall@5": 0.0,
+      "recall@10": 0.0,
+      "precision@5": 0.0,
+      "precision@10": 0.0,
+      "mrr": 0.0034965034965034965,
+      "ndcg@10": 0.0,
+      "top10_contain_delicious": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "query": "delicious tasty food",
+      "k1": 1.5,
+      "b": 0.75,
+      "drop_food_token": false,
+      "latency_ms": 1471.1,
+      "label_ranks": {
+        "RV-1c766a60f4bc6227": 440,
+        "RV-6453acdebc5ce59b": 618,
+        "RV-7d4a6b182e267914": 528,
+        "RV-997ac96af00a47d4": 556,
+        "RV-f47408e272f2cdda": 562
+      },
+      "recall@5": 0.0,
+      "recall@10": 0.0,
+      "precision@5": 0.0,
+      "precision@10": 0.0,
+      "mrr": 0.0022727272727272726,
+      "ndcg@10": 0.0,
+      "top10_contain_delicious": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "query": "delicious food",
+      "k1": 1.5,
+      "b": 0.0,
+      "drop_food_token": false,
+      "latency_ms": 1690.4,
+      "label_ranks": {
+        "RV-1c766a60f4bc6227": 46,
+        "RV-6453acdebc5ce59b": 51,
+        "RV-7d4a6b182e267914": 277,
+        "RV-997ac96af00a47d4": 15,
+        "RV-f47408e272f2cdda": 17
+      },
+      "recall@5": 0.0,
+      "recall@10": 0.0,
+      "precision@5": 0.0,
+      "precision@10": 0.0,
+      "mrr": 0.06666666666666667,
+      "ndcg@10": 0.0,
+      "top10_contain_delicious": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "query": "delicious food",
+      "k1": 1.2,
+      "b": 0.5,
+      "drop_food_token": false,
+      "latency_ms": 1622.9,
+      "label_ranks": {
+        "RV-1c766a60f4bc6227": 199,
+        "RV-6453acdebc5ce59b": 393,
+        "RV-7d4a6b182e267914": 323,
+        "RV-997ac96af00a47d4": 295,
+        "RV-f47408e272f2cdda": 306
+      },
+      "recall@5": 0.0,
+      "recall@10": 0.0,
+      "precision@5": 0.0,
+      "precision@10": 0.0,
+      "mrr": 0.005025125628140704,
+      "ndcg@10": 0.0,
+      "top10_contain_delicious": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "query": "delicious food",
+      "k1": 1.5,
+      "b": 0.75,
+      "drop_food_token": true,
+      "latency_ms": 1590.5,
+      "label_ranks": {
+        "RV-1c766a60f4bc6227": 291,
+        "RV-6453acdebc5ce59b": 455,
+        "RV-7d4a6b182e267914": 422,
+        "RV-997ac96af00a47d4": 460,
+        "RV-f47408e272f2cdda": 473
+      },
+      "recall@5": 0.0,
+      "recall@10": 0.0,
+      "precision@5": 0.0,
+      "precision@10": 0.0,
+      "mrr": 0.003436426116838488,
+      "ndcg@10": 0.0,
+      "top10_contain_delicious": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  ]
+}

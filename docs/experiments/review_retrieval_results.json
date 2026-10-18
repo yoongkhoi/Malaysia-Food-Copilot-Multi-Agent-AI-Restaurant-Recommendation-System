@@ -1,0 +1,2064 @@
+{
+  "corpus_reviews": 5991,
+  "final_k": 10,
+  "candidate_k": 20,
+  "aggregation": "macro_mean_per_query",
+  "precision_denominator": "k",
+  "min_labels_for_category_conclusion": 5,
+  "modes": {
+    "bm25": {
+      "summary": {
+        "cases": 14,
+        "recall@5": 0.1427,
+        "recall@10": 0.2285,
+        "precision@5": 0.2727,
+        "precision@10": 0.2455,
+        "mrr": 0.4091,
+        "ndcg@10": 0.3443,
+        "constraint_pass_rate": 0.3333,
+        "evidence_availability": 1.0,
+        "duplicate_restaurant_rate": 0.0357,
+        "aggregation": "macro_mean_per_query",
+        "comparable_note": "comparable_categories_only keeps categories with at least 5 relevance labels",
+        "null_metrics_excluded": true,
+        "precision_denominator": "k",
+        "latency_p50_ms": 905.448,
+        "latency_p95_ms": null,
+        "latency_p95_reason": "fewer than 20 queries",
+        "per_category": {
+          "exact_name": {
+            "cases": 2,
+            "relevant_labels": 748,
+            "conclusion": "comparable",
+            "recall@10": 0.3193,
+            "precision@10": 1.0,
+            "mrr": 1.0,
+            "failure_classes": [
+              "retrieved"
+            ]
+          },
+          "atmosphere": {
+            "cases": 1,
+            "relevant_labels": 8,
+            "conclusion": "comparable",
+            "recall@10": 0.375,
+            "precision@10": 0.3,
+            "mrr": 0.5,
+            "failure_classes": [
+              "retrieved"
+            ]
+          },
+          "noise": {
+            "cases": 1,
+            "relevant_labels": 3,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "food_quality": {
+            "cases": 1,
+            "relevant_labels": 5,
+            "conclusion": "comparable",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "service": {
+            "cases": 1,
+            "relevant_labels": 4,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "low_rating": {
+            "cases": 1,
+            "relevant_labels": 4,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.5,
+            "precision@10": 0.2,
+            "mrr": 1.0,
+            "failure_classes": [
+              "retrieved"
+            ]
+          },
+          "high_rating": {
+            "cases": 1,
+            "relevant_labels": 3,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "mixed_evidence": {
+            "cases": 1,
+            "relevant_labels": 2,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "chinese": {
+            "cases": 1,
+            "relevant_labels": 2,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "malay": {
+            "cases": 1,
+            "relevant_labels": 2,
+            "conclusion": "insufficient_labels",
+            "recall@10": 1.0,
+            "precision@10": 0.2,
+            "mrr": 1.0,
+            "failure_classes": [
+              "retrieved"
+            ]
+          },
+          "insufficient_evidence": {
+            "cases": 1,
+            "relevant_labels": 0,
+            "conclusion": "insufficient_labels",
+            "recall@10": null,
+            "precision@10": null,
+            "mrr": null,
+            "failure_classes": [
+              "constraint_case"
+            ]
+          },
+          "exclusion": {
+            "cases": 1,
+            "relevant_labels": 0,
+            "conclusion": "insufficient_labels",
+            "recall@10": null,
+            "precision@10": null,
+            "mrr": null,
+            "failure_classes": [
+              "constraint_case"
+            ]
+          },
+          "area_cuisine": {
+            "cases": 1,
+            "relevant_labels": 0,
+            "conclusion": "insufficient_labels",
+            "recall@10": null,
+            "precision@10": null,
+            "mrr": null,
+            "failure_classes": [
+              "constraint_case"
+            ]
+          }
+        },
+        "comparable_categories_only": {
+          "cases": 4,
+          "recall@5": 0.1423,
+          "recall@10": 0.2534,
+          "precision@5": 0.6,
+          "precision@10": 0.575,
+          "mrr": 0.625,
+          "ndcg@10": 0.5926
+        }
+      },
+      "cases": [
+        {
+          "case_id": "name-chambers",
+          "category": "exact_name",
+          "label_note": "name_field n=732",
+          "relevant_count": 732,
+          "failure_class": "retrieved",
+          "latency_ms": 1492.558,
+          "recall@5": 0.006830601092896175,
+          "recall@10": 0.01366120218579235,
+          "precision@5": 1.0,
+          "precision@10": 1.0,
+          "mrr": 1.0,
+          "ndcg@10": 1.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-313304e0341ff9a0",
+            "RV-df3591dd0197b062",
+            "RV-67aefcf67161a66c",
+            "RV-375f0014767390da",
+            "RV-0852409835df5336"
+          ]
+        },
+        {
+          "case_id": "name-nizza",
+          "category": "exact_name",
+          "label_note": "name_field n=16",
+          "relevant_count": 16,
+          "failure_class": "retrieved",
+          "latency_ms": 1349.532,
+          "recall@5": 0.3125,
+          "recall@10": 0.625,
+          "precision@5": 1.0,
+          "precision@10": 1.0,
+          "mrr": 1.0,
+          "ndcg@10": 1.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-89eb5d462f54b0c8",
+            "RV-b6aa533390e3c16c",
+            "RV-f95f3a009a0cb7b7",
+            "RV-9bd3238ed8e6f79c",
+            "RV-380d98dcb62a47a4"
+          ]
+        },
+        {
+          "case_id": "cozy",
+          "category": "atmosphere",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 8,
+          "failure_class": "retrieved",
+          "latency_ms": 1082.0,
+          "recall@5": 0.25,
+          "recall@10": 0.375,
+          "precision@5": 0.4,
+          "precision@10": 0.3,
+          "mrr": 0.5,
+          "ndcg@10": 0.3703746627646106,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-0de99ff39be26366",
+            "RV-14f3de26ef5cf0d6",
+            "RV-b3e244686ee83e4f",
+            "RV-10fe6fdcbe2fc221",
+            "RV-d16b8cd84b63b892"
+          ]
+        },
+        {
+          "case_id": "noisy",
+          "category": "noise",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 3,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 895.549,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-13b630c4cd8f353d",
+            "RV-49a0981f89a4595d",
+            "RV-a778b21f7eb451e3",
+            "RV-eff6cb542d4edee8",
+            "RV-5aa1ee43ced1625b"
+          ]
+        },
+        {
+          "case_id": "food",
+          "category": "food_quality",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 5,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 2070.537,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-0e2ce286612abee3",
+            "RV-b9506ed16a9e3e5a",
+            "RV-bea410cb185dca35",
+            "RV-7c7df846958e6ba2",
+            "RV-fb6ae0e07a007d89"
+          ]
+        },
+        {
+          "case_id": "service",
+          "category": "service",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 4,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 1319.043,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-66cec41f27bac918",
+            "RV-56345b2ac982050b",
+            "RV-c330267895f8ec60",
+            "RV-7a25f23bf76efc6c",
+            "RV-13054976c41cf9ad"
+          ]
+        },
+        {
+          "case_id": "low-rating",
+          "category": "low_rating",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 4,
+          "failure_class": "retrieved",
+          "latency_ms": 905.448,
+          "recall@5": 0.5,
+          "recall@10": 0.5,
+          "precision@5": 0.4,
+          "precision@10": 0.2,
+          "mrr": 1.0,
+          "ndcg@10": 0.5855700749881525,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-58b0f78d11bc66fe",
+            "RV-887ae7cef029ec8f",
+            "RV-e29cc2d9cdb909ed",
+            "RV-5e75dad16a22b5b2",
+            "RV-22aeafeacc8af2eb"
+          ]
+        },
+        {
+          "case_id": "high-rating",
+          "category": "high_rating",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 3,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 884.725,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-3a1f288ecbb0064e",
+            "RV-ccd4c4ab23faf5a8",
+            "RV-bea410cb185dca35",
+            "RV-82cefabc89b172b3",
+            "RV-ade48b37016be13c"
+          ]
+        },
+        {
+          "case_id": "mixed",
+          "category": "mixed_evidence",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 2,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 1037.558,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-43d59a059407cac1",
+            "RV-8d09adc7e087aa7d",
+            "RV-9195a7622716965b",
+            "RV-454b26a186b9f927",
+            "RV-b8c92ce601a6c4aa"
+          ]
+        },
+        {
+          "case_id": "chinese",
+          "category": "chinese",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 2,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 447.488,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-00032224570eda6a",
+            "RV-000531440f9cfea5",
+            "RV-0008559912cb383e",
+            "RV-00100eb92376961e",
+            "RV-001028b3a756bb05"
+          ]
+        },
+        {
+          "case_id": "malay",
+          "category": "malay",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 2,
+          "failure_class": "retrieved",
+          "latency_ms": 876.306,
+          "recall@5": 0.5,
+          "recall@10": 1.0,
+          "precision@5": 0.2,
+          "precision@10": 0.2,
+          "mrr": 1.0,
+          "ndcg@10": 0.8315546295836225,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-daaf69c8916daca6",
+            "RV-865e881eb3a6fc03",
+            "RV-811055a3d8679169",
+            "RV-383e6c2539c5cb5d",
+            "RV-fe8f772fa095d7c1"
+          ]
+        },
+        {
+          "case_id": "no-evidence",
+          "category": "insufficient_evidence",
+          "label_note": "not_a_relevance_set",
+          "relevant_count": 0,
+          "failure_class": "constraint_case",
+          "latency_ms": 848.447,
+          "recall@5": null,
+          "recall@10": null,
+          "precision@5": null,
+          "precision@10": null,
+          "mrr": null,
+          "ndcg@10": null,
+          "constraint_pass_rate": 1.0,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-f2b7ccac24da5ae8",
+            "RV-164c162af57777b6",
+            "RV-9242fe5caa625e50",
+            "RV-997e5f01b0be3216",
+            "RV-83d98a0610d8cef4"
+          ]
+        },
+        {
+          "case_id": "exclude-western",
+          "category": "exclusion",
+          "label_note": "not_a_relevance_set",
+          "relevant_count": 0,
+          "failure_class": "constraint_case",
+          "latency_ms": 1032.342,
+          "recall@5": null,
+          "recall@10": null,
+          "precision@5": null,
+          "precision@10": null,
+          "mrr": null,
+          "ndcg@10": null,
+          "constraint_pass_rate": 0.0,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.5,
+          "top_review_ids": [
+            "RV-14f3de26ef5cf0d6",
+            "RV-b3e244686ee83e4f",
+            "RV-10fe6fdcbe2fc221",
+            "RV-d16b8cd84b63b892",
+            "RV-c8d3cc31f3b1a891"
+          ]
+        },
+        {
+          "case_id": "cuisine-area",
+          "category": "area_cuisine",
+          "label_note": "not_a_relevance_set",
+          "relevant_count": 0,
+          "failure_class": "constraint_case",
+          "latency_ms": 868.12,
+          "recall@5": null,
+          "recall@10": null,
+          "precision@5": null,
+          "precision@10": null,
+          "mrr": null,
+          "ndcg@10": null,
+          "constraint_pass_rate": 0.0,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-bfe84b99da787213",
+            "RV-3a16edbc6e66e117",
+            "RV-ef4ff71290497b22",
+            "RV-fb6ae0e07a007d89",
+            "RV-b8f96cc675f2f80e"
+          ]
+        }
+      ]
+    },
+    "vector": {
+      "summary": {
+        "cases": 14,
+        "recall@5": 0.0461,
+        "recall@10": 0.1262,
+        "precision@5": 0.1091,
+        "precision@10": 0.1364,
+        "mrr": 0.1515,
+        "ndcg@10": 0.1687,
+        "constraint_pass_rate": 0.3333,
+        "evidence_availability": 1.0,
+        "duplicate_restaurant_rate": 0.1071,
+        "aggregation": "macro_mean_per_query",
+        "comparable_note": "comparable_categories_only keeps categories with at least 5 relevance labels",
+        "null_metrics_excluded": true,
+        "precision_denominator": "k",
+        "latency_p50_ms": 1680.255,
+        "latency_p95_ms": null,
+        "latency_p95_reason": "fewer than 20 queries",
+        "per_category": {
+          "exact_name": {
+            "cases": 2,
+            "relevant_labels": 748,
+            "conclusion": "comparable",
+            "recall@10": 0.0068,
+            "precision@10": 0.5,
+            "mrr": 0.5,
+            "failure_classes": [
+              "retrieval_miss",
+              "retrieved"
+            ]
+          },
+          "atmosphere": {
+            "cases": 1,
+            "relevant_labels": 8,
+            "conclusion": "comparable",
+            "recall@10": 0.375,
+            "precision@10": 0.3,
+            "mrr": 0.1667,
+            "failure_classes": [
+              "retrieved"
+            ]
+          },
+          "noise": {
+            "cases": 1,
+            "relevant_labels": 3,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "food_quality": {
+            "cases": 1,
+            "relevant_labels": 5,
+            "conclusion": "comparable",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "service": {
+            "cases": 1,
+            "relevant_labels": 4,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "low_rating": {
+            "cases": 1,
+            "relevant_labels": 4,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "high_rating": {
+            "cases": 1,
+            "relevant_labels": 3,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "mixed_evidence": {
+            "cases": 1,
+            "relevant_labels": 2,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "chinese": {
+            "cases": 1,
+            "relevant_labels": 2,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "malay": {
+            "cases": 1,
+            "relevant_labels": 2,
+            "conclusion": "insufficient_labels",
+            "recall@10": 1.0,
+            "precision@10": 0.2,
+            "mrr": 0.5,
+            "failure_classes": [
+              "retrieved"
+            ]
+          },
+          "insufficient_evidence": {
+            "cases": 1,
+            "relevant_labels": 0,
+            "conclusion": "insufficient_labels",
+            "recall@10": null,
+            "precision@10": null,
+            "mrr": null,
+            "failure_classes": [
+              "constraint_case"
+            ]
+          },
+          "exclusion": {
+            "cases": 1,
+            "relevant_labels": 0,
+            "conclusion": "insufficient_labels",
+            "recall@10": null,
+            "precision@10": null,
+            "mrr": null,
+            "failure_classes": [
+              "constraint_case"
+            ]
+          },
+          "area_cuisine": {
+            "cases": 1,
+            "relevant_labels": 0,
+            "conclusion": "insufficient_labels",
+            "recall@10": null,
+            "precision@10": null,
+            "mrr": null,
+            "failure_classes": [
+              "constraint_case"
+            ]
+          }
+        },
+        "comparable_categories_only": {
+          "cases": 4,
+          "recall@5": 0.0017,
+          "recall@10": 0.0972,
+          "precision@5": 0.25,
+          "precision@10": 0.325,
+          "mrr": 0.2917,
+          "ndcg@10": 0.3126
+        }
+      },
+      "cases": [
+        {
+          "case_id": "name-chambers",
+          "category": "exact_name",
+          "label_note": "name_field n=732",
+          "relevant_count": 732,
+          "failure_class": "retrieved",
+          "latency_ms": 3987.235,
+          "recall@5": 0.006830601092896175,
+          "recall@10": 0.01366120218579235,
+          "precision@5": 1.0,
+          "precision@10": 1.0,
+          "mrr": 1.0,
+          "ndcg@10": 1.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-9bcdb6d06fb83a3b",
+            "RV-698f08fbbcbb0387",
+            "RV-e1253c76275827ef",
+            "RV-971904a7a6ed4058",
+            "RV-27f49b869269a33a"
+          ]
+        },
+        {
+          "case_id": "name-nizza",
+          "category": "exact_name",
+          "label_note": "name_field n=16",
+          "relevant_count": 16,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 1328.899,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-d34fad16d132197a",
+            "RV-9f09ba3f6c509b3f",
+            "RV-6fc2d9b648193bc3",
+            "RV-d69514321a71f97c",
+            "RV-b88b7117d0dce3cf"
+          ]
+        },
+        {
+          "case_id": "cozy",
+          "category": "atmosphere",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 8,
+          "failure_class": "retrieved",
+          "latency_ms": 2079.151,
+          "recall@5": 0.0,
+          "recall@10": 0.375,
+          "precision@5": 0.0,
+          "precision@10": 0.3,
+          "mrr": 0.16666666666666666,
+          "ndcg@10": 0.2505575836256369,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-3236f2145aaf67f0",
+            "RV-e6a128cd4d74b3cd",
+            "RV-c8d3cc31f3b1a891",
+            "RV-ccf4a65f5df17eee",
+            "RV-999bcf038a821422"
+          ]
+        },
+        {
+          "case_id": "noisy",
+          "category": "noise",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 3,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 2240.983,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-9c89a836c4531ef2",
+            "RV-880298b611ac6443",
+            "RV-df3cbee90e14a2ea",
+            "RV-0891a630b12ddbd2",
+            "RV-a51218779be712cb"
+          ]
+        },
+        {
+          "case_id": "food",
+          "category": "food_quality",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 5,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 1640.058,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.5,
+          "top_review_ids": [
+            "RV-b9506ed16a9e3e5a",
+            "RV-0e2ce286612abee3",
+            "RV-7c7df846958e6ba2",
+            "RV-1f326b7bbc2cc00e",
+            "RV-03d183be6bfc7680"
+          ]
+        },
+        {
+          "case_id": "service",
+          "category": "service",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 4,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 1501.8,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-66cec41f27bac918",
+            "RV-a9b10d789795deb2",
+            "RV-8f7fc2c6283646f1",
+            "RV-7c689de27dabdba8",
+            "RV-44fe3c7da7543111"
+          ]
+        },
+        {
+          "case_id": "low-rating",
+          "category": "low_rating",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 4,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 1610.459,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.5,
+          "top_review_ids": [
+            "RV-81c122aa2b535eee",
+            "RV-64a2be8334f17bf0",
+            "RV-be56f89037a9ae11",
+            "RV-e040edfa49b41db3",
+            "RV-3c878b447408b1ee"
+          ]
+        },
+        {
+          "case_id": "high-rating",
+          "category": "high_rating",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 3,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 2591.204,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-9f84848cfa53a0eb",
+            "RV-4f6a91097c848fe6",
+            "RV-3474d9a55fa4495d",
+            "RV-a85ca27f05cfa64a",
+            "RV-c3df9546def0066a"
+          ]
+        },
+        {
+          "case_id": "mixed",
+          "category": "mixed_evidence",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 2,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 1828.897,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-6c36f1aa5defedfc",
+            "RV-8d09adc7e087aa7d",
+            "RV-a7208d1d30675034",
+            "RV-07c8dfaf56b965c9",
+            "RV-532a8018fdd7e605"
+          ]
+        },
+        {
+          "case_id": "chinese",
+          "category": "chinese",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 2,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 1667.631,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-a0bc9c924d701cce",
+            "RV-226e5760026429e1",
+            "RV-8ef27708dfe099e0",
+            "RV-60de5d37b3d9b97b",
+            "RV-77d53f492bea854f"
+          ]
+        },
+        {
+          "case_id": "malay",
+          "category": "malay",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 2,
+          "failure_class": "retrieved",
+          "latency_ms": 1592.243,
+          "recall@5": 0.5,
+          "recall@10": 1.0,
+          "precision@5": 0.2,
+          "precision@10": 0.2,
+          "mrr": 0.5,
+          "ndcg@10": 0.6052602440527057,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-811055a3d8679169",
+            "RV-daaf69c8916daca6",
+            "RV-516e367c39b30fc3",
+            "RV-2dcb7116b26a2947",
+            "RV-edc303018e16ae38"
+          ]
+        },
+        {
+          "case_id": "no-evidence",
+          "category": "insufficient_evidence",
+          "label_note": "not_a_relevance_set",
+          "relevant_count": 0,
+          "failure_class": "constraint_case",
+          "latency_ms": 1777.966,
+          "recall@5": null,
+          "recall@10": null,
+          "precision@5": null,
+          "precision@10": null,
+          "mrr": null,
+          "ndcg@10": null,
+          "constraint_pass_rate": 1.0,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.5,
+          "top_review_ids": [
+            "RV-f2b7ccac24da5ae8",
+            "RV-164c162af57777b6",
+            "RV-997e5f01b0be3216",
+            "RV-3088b66ca6840db2",
+            "RV-8fda04203da0510a"
+          ]
+        },
+        {
+          "case_id": "exclude-western",
+          "category": "exclusion",
+          "label_note": "not_a_relevance_set",
+          "relevant_count": 0,
+          "failure_class": "constraint_case",
+          "latency_ms": 1680.255,
+          "recall@5": null,
+          "recall@10": null,
+          "precision@5": null,
+          "precision@10": null,
+          "mrr": null,
+          "ndcg@10": null,
+          "constraint_pass_rate": 0.0,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-3236f2145aaf67f0",
+            "RV-e6a128cd4d74b3cd",
+            "RV-4da5382e4216e137",
+            "RV-c8d3cc31f3b1a891",
+            "RV-ccf4a65f5df17eee"
+          ]
+        },
+        {
+          "case_id": "cuisine-area",
+          "category": "area_cuisine",
+          "label_note": "not_a_relevance_set",
+          "relevant_count": 0,
+          "failure_class": "constraint_case",
+          "latency_ms": 1952.955,
+          "recall@5": null,
+          "recall@10": null,
+          "precision@5": null,
+          "precision@10": null,
+          "mrr": null,
+          "ndcg@10": null,
+          "constraint_pass_rate": 0.0,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-b8f96cc675f2f80e",
+            "RV-fb6ae0e07a007d89",
+            "RV-3a16edbc6e66e117",
+            "RV-33c92c8e32c97ff5",
+            "RV-56478fc4480ed064"
+          ]
+        }
+      ]
+    },
+    "hybrid": {
+      "summary": {
+        "cases": 14,
+        "recall@5": 0.1483,
+        "recall@10": 0.1887,
+        "precision@5": 0.2182,
+        "precision@10": 0.1909,
+        "mrr": 0.3636,
+        "ndcg@10": 0.2832,
+        "constraint_pass_rate": 0.3333,
+        "evidence_availability": 1.0,
+        "duplicate_restaurant_rate": 0.0357,
+        "aggregation": "macro_mean_per_query",
+        "comparable_note": "comparable_categories_only keeps categories with at least 5 relevance labels",
+        "null_metrics_excluded": true,
+        "precision_denominator": "k",
+        "latency_p50_ms": 3346.822,
+        "latency_p95_ms": null,
+        "latency_p95_reason": "fewer than 20 queries",
+        "per_category": {
+          "exact_name": {
+            "cases": 2,
+            "relevant_labels": 748,
+            "conclusion": "comparable",
+            "recall@10": 0.1631,
+            "precision@10": 0.75,
+            "mrr": 0.75,
+            "failure_classes": [
+              "retrieved"
+            ]
+          },
+          "atmosphere": {
+            "cases": 1,
+            "relevant_labels": 8,
+            "conclusion": "comparable",
+            "recall@10": 0.25,
+            "precision@10": 0.2,
+            "mrr": 1.0,
+            "failure_classes": [
+              "retrieved"
+            ]
+          },
+          "noise": {
+            "cases": 1,
+            "relevant_labels": 3,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "food_quality": {
+            "cases": 1,
+            "relevant_labels": 5,
+            "conclusion": "comparable",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "service": {
+            "cases": 1,
+            "relevant_labels": 4,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "low_rating": {
+            "cases": 1,
+            "relevant_labels": 4,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.5,
+            "precision@10": 0.2,
+            "mrr": 0.5,
+            "failure_classes": [
+              "retrieved"
+            ]
+          },
+          "high_rating": {
+            "cases": 1,
+            "relevant_labels": 3,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "mixed_evidence": {
+            "cases": 1,
+            "relevant_labels": 2,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "chinese": {
+            "cases": 1,
+            "relevant_labels": 2,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "malay": {
+            "cases": 1,
+            "relevant_labels": 2,
+            "conclusion": "insufficient_labels",
+            "recall@10": 1.0,
+            "precision@10": 0.2,
+            "mrr": 1.0,
+            "failure_classes": [
+              "retrieved"
+            ]
+          },
+          "insufficient_evidence": {
+            "cases": 1,
+            "relevant_labels": 0,
+            "conclusion": "insufficient_labels",
+            "recall@10": null,
+            "precision@10": null,
+            "mrr": null,
+            "failure_classes": [
+              "constraint_case"
+            ]
+          },
+          "exclusion": {
+            "cases": 1,
+            "relevant_labels": 0,
+            "conclusion": "insufficient_labels",
+            "recall@10": null,
+            "precision@10": null,
+            "mrr": null,
+            "failure_classes": [
+              "constraint_case"
+            ]
+          },
+          "area_cuisine": {
+            "cases": 1,
+            "relevant_labels": 0,
+            "conclusion": "insufficient_labels",
+            "recall@10": null,
+            "precision@10": null,
+            "mrr": null,
+            "failure_classes": [
+              "constraint_case"
+            ]
+          }
+        },
+        "comparable_categories_only": {
+          "cases": 4,
+          "recall@5": 0.0955,
+          "recall@10": 0.144,
+          "precision@5": 0.45,
+          "precision@10": 0.425,
+          "mrr": 0.625,
+          "ndcg@10": 0.4525
+        }
+      },
+      "cases": [
+        {
+          "case_id": "name-chambers",
+          "category": "exact_name",
+          "label_note": "name_field n=732",
+          "relevant_count": 732,
+          "failure_class": "retrieved",
+          "latency_ms": 2981.308,
+          "recall@5": 0.006830601092896175,
+          "recall@10": 0.01366120218579235,
+          "precision@5": 1.0,
+          "precision@10": 1.0,
+          "mrr": 1.0,
+          "ndcg@10": 1.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-971904a7a6ed4058",
+            "RV-0852409835df5336",
+            "RV-375f0014767390da",
+            "RV-ecb8390884ceb762",
+            "RV-5cd55834cf75d160"
+          ]
+        },
+        {
+          "case_id": "name-nizza",
+          "category": "exact_name",
+          "label_note": "name_field n=16",
+          "relevant_count": 16,
+          "failure_class": "retrieved",
+          "latency_ms": 4851.905,
+          "recall@5": 0.125,
+          "recall@10": 0.3125,
+          "precision@5": 0.4,
+          "precision@10": 0.5,
+          "mrr": 0.5,
+          "ndcg@10": 0.43042149375026456,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-b9d54455cfc21dfe",
+            "RV-89eb5d462f54b0c8",
+            "RV-d34fad16d132197a",
+            "RV-9f09ba3f6c509b3f",
+            "RV-b6aa533390e3c16c"
+          ]
+        },
+        {
+          "case_id": "cozy",
+          "category": "atmosphere",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 8,
+          "failure_class": "retrieved",
+          "latency_ms": 3346.822,
+          "recall@5": 0.25,
+          "recall@10": 0.25,
+          "precision@5": 0.4,
+          "precision@10": 0.2,
+          "mrr": 1.0,
+          "ndcg@10": 0.3794140541514857,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-14f3de26ef5cf0d6",
+            "RV-c8d3cc31f3b1a891",
+            "RV-b3e244686ee83e4f",
+            "RV-e6a128cd4d74b3cd",
+            "RV-3236f2145aaf67f0"
+          ]
+        },
+        {
+          "case_id": "noisy",
+          "category": "noise",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 3,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 3149.31,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-9c89a836c4531ef2",
+            "RV-df3cbee90e14a2ea",
+            "RV-880298b611ac6443",
+            "RV-13b630c4cd8f353d",
+            "RV-49a0981f89a4595d"
+          ]
+        },
+        {
+          "case_id": "food",
+          "category": "food_quality",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 5,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 3852.524,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-0e2ce286612abee3",
+            "RV-b9506ed16a9e3e5a",
+            "RV-7c7df846958e6ba2",
+            "RV-1f326b7bbc2cc00e",
+            "RV-4f9834a41e0e8e11"
+          ]
+        },
+        {
+          "case_id": "service",
+          "category": "service",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 4,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 3564.94,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-66cec41f27bac918",
+            "RV-44fe3c7da7543111",
+            "RV-8f7fc2c6283646f1",
+            "RV-c59d36a4f772c1b7",
+            "RV-811885c9a267dbff"
+          ]
+        },
+        {
+          "case_id": "low-rating",
+          "category": "low_rating",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 4,
+          "failure_class": "retrieved",
+          "latency_ms": 3403.376,
+          "recall@5": 0.25,
+          "recall@10": 0.5,
+          "precision@5": 0.2,
+          "precision@10": 0.2,
+          "mrr": 0.5,
+          "ndcg@10": 0.3853585682515056,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-81c122aa2b535eee",
+            "RV-58b0f78d11bc66fe",
+            "RV-64a2be8334f17bf0",
+            "RV-887ae7cef029ec8f",
+            "RV-be56f89037a9ae11"
+          ]
+        },
+        {
+          "case_id": "high-rating",
+          "category": "high_rating",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 3,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 3216.164,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-3a1f288ecbb0064e",
+            "RV-9f84848cfa53a0eb",
+            "RV-4f6a91097c848fe6",
+            "RV-ccd4c4ab23faf5a8",
+            "RV-3474d9a55fa4495d"
+          ]
+        },
+        {
+          "case_id": "mixed",
+          "category": "mixed_evidence",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 2,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 3088.539,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-8d09adc7e087aa7d",
+            "RV-9195a7622716965b",
+            "RV-43d59a059407cac1",
+            "RV-454b26a186b9f927",
+            "RV-b8c92ce601a6c4aa"
+          ]
+        },
+        {
+          "case_id": "chinese",
+          "category": "chinese",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 2,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 4135.637,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-00032224570eda6a",
+            "RV-a0bc9c924d701cce",
+            "RV-000531440f9cfea5",
+            "RV-226e5760026429e1",
+            "RV-0008559912cb383e"
+          ]
+        },
+        {
+          "case_id": "malay",
+          "category": "malay",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 2,
+          "failure_class": "retrieved",
+          "latency_ms": 3907.477,
+          "recall@5": 1.0,
+          "recall@10": 1.0,
+          "precision@5": 0.4,
+          "precision@10": 0.2,
+          "mrr": 1.0,
+          "ndcg@10": 0.9197207891481876,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-daaf69c8916daca6",
+            "RV-811055a3d8679169",
+            "RV-aca9b71c4989c9cf",
+            "RV-383e6c2539c5cb5d",
+            "RV-865e881eb3a6fc03"
+          ]
+        },
+        {
+          "case_id": "no-evidence",
+          "category": "insufficient_evidence",
+          "label_note": "not_a_relevance_set",
+          "relevant_count": 0,
+          "failure_class": "constraint_case",
+          "latency_ms": 2906.478,
+          "recall@5": null,
+          "recall@10": null,
+          "precision@5": null,
+          "precision@10": null,
+          "mrr": null,
+          "ndcg@10": null,
+          "constraint_pass_rate": 1.0,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.5,
+          "top_review_ids": [
+            "RV-f2b7ccac24da5ae8",
+            "RV-164c162af57777b6",
+            "RV-997e5f01b0be3216",
+            "RV-9242fe5caa625e50",
+            "RV-3088b66ca6840db2"
+          ]
+        },
+        {
+          "case_id": "exclude-western",
+          "category": "exclusion",
+          "label_note": "not_a_relevance_set",
+          "relevant_count": 0,
+          "failure_class": "constraint_case",
+          "latency_ms": 2782.834,
+          "recall@5": null,
+          "recall@10": null,
+          "precision@5": null,
+          "precision@10": null,
+          "mrr": null,
+          "ndcg@10": null,
+          "constraint_pass_rate": 0.0,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-c8d3cc31f3b1a891",
+            "RV-14f3de26ef5cf0d6",
+            "RV-b3e244686ee83e4f",
+            "RV-e6a128cd4d74b3cd",
+            "RV-3236f2145aaf67f0"
+          ]
+        },
+        {
+          "case_id": "cuisine-area",
+          "category": "area_cuisine",
+          "label_note": "not_a_relevance_set",
+          "relevant_count": 0,
+          "failure_class": "constraint_case",
+          "latency_ms": 3404.25,
+          "recall@5": null,
+          "recall@10": null,
+          "precision@5": null,
+          "precision@10": null,
+          "mrr": null,
+          "ndcg@10": null,
+          "constraint_pass_rate": 0.0,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-3a16edbc6e66e117",
+            "RV-b8f96cc675f2f80e",
+            "RV-fb6ae0e07a007d89",
+            "RV-ef4ff71290497b22",
+            "RV-33c92c8e32c97ff5"
+          ]
+        }
+      ]
+    },
+    "multilingual_minilm": {
+      "summary": {
+        "cases": 14,
+        "recall@5": 0.0006,
+        "recall@10": 0.0012,
+        "precision@5": 0.0909,
+        "precision@10": 0.0909,
+        "mrr": 0.0909,
+        "ndcg@10": 0.0909,
+        "constraint_pass_rate": 0.3333,
+        "evidence_availability": 1.0,
+        "duplicate_restaurant_rate": 0.1191,
+        "aggregation": "macro_mean_per_query",
+        "comparable_note": "comparable_categories_only keeps categories with at least 5 relevance labels",
+        "null_metrics_excluded": true,
+        "precision_denominator": "k",
+        "latency_p50_ms": 51.292,
+        "latency_p95_ms": null,
+        "latency_p95_reason": "fewer than 20 queries",
+        "per_category": {
+          "exact_name": {
+            "cases": 2,
+            "relevant_labels": 748,
+            "conclusion": "comparable",
+            "recall@10": 0.0068,
+            "precision@10": 0.5,
+            "mrr": 0.5,
+            "failure_classes": [
+              "retrieval_miss",
+              "retrieved"
+            ]
+          },
+          "atmosphere": {
+            "cases": 1,
+            "relevant_labels": 8,
+            "conclusion": "comparable",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "noise": {
+            "cases": 1,
+            "relevant_labels": 3,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "food_quality": {
+            "cases": 1,
+            "relevant_labels": 5,
+            "conclusion": "comparable",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "service": {
+            "cases": 1,
+            "relevant_labels": 4,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "low_rating": {
+            "cases": 1,
+            "relevant_labels": 4,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "high_rating": {
+            "cases": 1,
+            "relevant_labels": 3,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "mixed_evidence": {
+            "cases": 1,
+            "relevant_labels": 2,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "chinese": {
+            "cases": 1,
+            "relevant_labels": 2,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "malay": {
+            "cases": 1,
+            "relevant_labels": 2,
+            "conclusion": "insufficient_labels",
+            "recall@10": 0.0,
+            "precision@10": 0.0,
+            "mrr": 0.0,
+            "failure_classes": [
+              "retrieval_miss"
+            ]
+          },
+          "insufficient_evidence": {
+            "cases": 1,
+            "relevant_labels": 0,
+            "conclusion": "insufficient_labels",
+            "recall@10": null,
+            "precision@10": null,
+            "mrr": null,
+            "failure_classes": [
+              "constraint_case"
+            ]
+          },
+          "exclusion": {
+            "cases": 1,
+            "relevant_labels": 0,
+            "conclusion": "insufficient_labels",
+            "recall@10": null,
+            "precision@10": null,
+            "mrr": null,
+            "failure_classes": [
+              "constraint_case"
+            ]
+          },
+          "area_cuisine": {
+            "cases": 1,
+            "relevant_labels": 0,
+            "conclusion": "insufficient_labels",
+            "recall@10": null,
+            "precision@10": null,
+            "mrr": null,
+            "failure_classes": [
+              "constraint_case"
+            ]
+          }
+        },
+        "comparable_categories_only": {
+          "cases": 4,
+          "recall@5": 0.0017,
+          "recall@10": 0.0034,
+          "precision@5": 0.25,
+          "precision@10": 0.25,
+          "mrr": 0.25,
+          "ndcg@10": 0.25
+        }
+      },
+      "cases": [
+        {
+          "case_id": "name-chambers",
+          "category": "exact_name",
+          "label_note": "name_field n=732",
+          "relevant_count": 732,
+          "failure_class": "retrieved",
+          "latency_ms": 977.572,
+          "recall@5": 0.006830601092896175,
+          "recall@10": 0.01366120218579235,
+          "precision@5": 1.0,
+          "precision@10": 1.0,
+          "mrr": 1.0,
+          "ndcg@10": 1.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-fe8e897ef90f18db",
+            "RV-96841479b1e114d5",
+            "RV-2565b9a64cf1e9ac",
+            "RV-375f0014767390da",
+            "RV-95f81c55cb619807"
+          ]
+        },
+        {
+          "case_id": "name-nizza",
+          "category": "exact_name",
+          "label_note": "name_field n=16",
+          "relevant_count": 16,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 70.728,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-b9d54455cfc21dfe",
+            "RV-6fc2d9b648193bc3",
+            "RV-3d9fc17f745cfb1a",
+            "RV-d25e2241a503b9a2",
+            "RV-dcbd05985db01990"
+          ]
+        },
+        {
+          "case_id": "cozy",
+          "category": "atmosphere",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 8,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 50.715,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-3236f2145aaf67f0",
+            "RV-b9d54455cfc21dfe",
+            "RV-999bcf038a821422",
+            "RV-08926be593626373",
+            "RV-ccf4a65f5df17eee"
+          ]
+        },
+        {
+          "case_id": "noisy",
+          "category": "noise",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 3,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 51.292,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-048acdac162ca59e",
+            "RV-97a43b5587a87f95",
+            "RV-6559b744b5834d71",
+            "RV-880298b611ac6443",
+            "RV-aa1ff2f451febcb4"
+          ]
+        },
+        {
+          "case_id": "food",
+          "category": "food_quality",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 5,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 45.427,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-b9506ed16a9e3e5a",
+            "RV-0e2ce286612abee3",
+            "RV-7c7df846958e6ba2",
+            "RV-72ca6e16e004be9b",
+            "RV-fe2ff9a820a5748f"
+          ]
+        },
+        {
+          "case_id": "service",
+          "category": "service",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 4,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 49.908,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-66cec41f27bac918",
+            "RV-7c689de27dabdba8",
+            "RV-a9b10d789795deb2",
+            "RV-8f7fc2c6283646f1",
+            "RV-44fe3c7da7543111"
+          ]
+        },
+        {
+          "case_id": "low-rating",
+          "category": "low_rating",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 4,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 62.179,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.5,
+          "top_review_ids": [
+            "RV-d5430feb892684c2",
+            "RV-64a2be8334f17bf0",
+            "RV-fbce3ca8351ec365",
+            "RV-f551d5ed19e7a599",
+            "RV-c4a84cf84514b834"
+          ]
+        },
+        {
+          "case_id": "high-rating",
+          "category": "high_rating",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 3,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 48.878,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-aeaf3415605da1e2",
+            "RV-112815c5e22a1de2",
+            "RV-1c9fa205b94d3a6b",
+            "RV-9f84848cfa53a0eb",
+            "RV-a85ca27f05cfa64a"
+          ]
+        },
+        {
+          "case_id": "mixed",
+          "category": "mixed_evidence",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 2,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 53.587,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-6c36f1aa5defedfc",
+            "RV-8d09adc7e087aa7d",
+            "RV-a7208d1d30675034",
+            "RV-532a8018fdd7e605",
+            "RV-a9e5b845fc049069"
+          ]
+        },
+        {
+          "case_id": "chinese",
+          "category": "chinese",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 2,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 37.661,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.6667,
+          "top_review_ids": [
+            "RV-7c7df846958e6ba2",
+            "RV-0e2ce286612abee3",
+            "RV-b9506ed16a9e3e5a",
+            "RV-fe2ff9a820a5748f",
+            "RV-591c8c04644d7170"
+          ]
+        },
+        {
+          "case_id": "malay",
+          "category": "malay",
+          "label_note": "manually_read_review_ids",
+          "relevant_count": 2,
+          "failure_class": "retrieval_miss",
+          "latency_ms": 45.927,
+          "recall@5": 0.0,
+          "recall@10": 0.0,
+          "precision@5": 0.0,
+          "precision@10": 0.0,
+          "mrr": 0.0,
+          "ndcg@10": 0.0,
+          "constraint_pass_rate": null,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.5,
+          "top_review_ids": [
+            "RV-77d53f492bea854f",
+            "RV-dbddbc8f308bded3",
+            "RV-be7ceda724c5429d",
+            "RV-e33221203bb3880a",
+            "RV-5970de2fe6afc2e6"
+          ]
+        },
+        {
+          "case_id": "no-evidence",
+          "category": "insufficient_evidence",
+          "label_note": "not_a_relevance_set",
+          "relevant_count": 0,
+          "failure_class": "constraint_case",
+          "latency_ms": 60.38,
+          "recall@5": null,
+          "recall@10": null,
+          "precision@5": null,
+          "precision@10": null,
+          "mrr": null,
+          "ndcg@10": null,
+          "constraint_pass_rate": 1.0,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-b5f25858d8022289",
+            "RV-1c412764cb5ac838",
+            "RV-f132705ec9294e48",
+            "RV-54ac3faf258c3e4b",
+            "RV-77d53f492bea854f"
+          ]
+        },
+        {
+          "case_id": "exclude-western",
+          "category": "exclusion",
+          "label_note": "not_a_relevance_set",
+          "relevant_count": 0,
+          "failure_class": "constraint_case",
+          "latency_ms": 1381.394,
+          "recall@5": null,
+          "recall@10": null,
+          "precision@5": null,
+          "precision@10": null,
+          "mrr": null,
+          "ndcg@10": null,
+          "constraint_pass_rate": 0.0,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-3236f2145aaf67f0",
+            "RV-b9d54455cfc21dfe",
+            "RV-6fc2d9b648193bc3",
+            "RV-ccf4a65f5df17eee",
+            "RV-999bcf038a821422"
+          ]
+        },
+        {
+          "case_id": "cuisine-area",
+          "category": "area_cuisine",
+          "label_note": "not_a_relevance_set",
+          "relevant_count": 0,
+          "failure_class": "constraint_case",
+          "latency_ms": 54.292,
+          "recall@5": null,
+          "recall@10": null,
+          "precision@5": null,
+          "precision@10": null,
+          "mrr": null,
+          "ndcg@10": null,
+          "constraint_pass_rate": 0.0,
+          "evidence_availability": 1.0,
+          "duplicate_restaurant_rate": 0.0,
+          "top_review_ids": [
+            "RV-b8f96cc675f2f80e",
+            "RV-8a10d0bb12cbbe14",
+            "RV-222153093b2c3953",
+            "RV-d43d242a8f2d5f8b",
+            "RV-f130cf91f195b88a"
+          ]
+        }
+      ]
+    }
+  }
+}

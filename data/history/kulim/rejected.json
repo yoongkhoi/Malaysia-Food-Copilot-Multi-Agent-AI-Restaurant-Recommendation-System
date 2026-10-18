@@ -1,0 +1,977 @@
+[
+  {
+    "restaurant_id": "MY-OSM-node-12041042679",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-node-12041042679",
+      "name": "Sate Ajo",
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.4737463,
+      "longitude": 101.5044737,
+      "cuisine": [],
+      "cuisine_raw": null,
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/node/12041042679",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  },
+  {
+    "restaurant_id": "MY-OSM-node-12637844170",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-node-12637844170",
+      "name": "Pondok Sarapan Berkah",
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.4748743,
+      "longitude": 101.5029252,
+      "cuisine": [
+        "indonesian"
+      ],
+      "cuisine_raw": "indonesian",
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/node/12637844170",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  },
+  {
+    "restaurant_id": "MY-OSM-node-12637844171",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-node-12637844171",
+      "name": "Ratu Mime Coffee & Resto",
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.475002,
+      "longitude": 101.5026735,
+      "cuisine": [],
+      "cuisine_raw": null,
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/node/12637844171",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  },
+  {
+    "restaurant_id": "MY-OSM-node-12637844172",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-node-12637844172",
+      "name": "Warung Kopi & Sarapan Bude Ani",
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.4755465,
+      "longitude": 101.5011942,
+      "cuisine": [
+        "coffee_shop"
+      ],
+      "cuisine_raw": "coffee_shop",
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/node/12637844172",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  },
+  {
+    "restaurant_id": "MY-OSM-node-12637844194",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-node-12637844194",
+      "name": "Warung Kopi Nira Aren",
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.4766141,
+      "longitude": 101.4989275,
+      "cuisine": [
+        "coffee_shop"
+      ],
+      "cuisine_raw": "coffee_shop",
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/node/12637844194",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  },
+  {
+    "restaurant_id": "MY-OSM-node-12637844196",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-node-12637844196",
+      "name": "Sarapan Pagi Zea",
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.4766318,
+      "longitude": 101.4988581,
+      "cuisine": [],
+      "cuisine_raw": null,
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/node/12637844196",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  },
+  {
+    "restaurant_id": "MY-OSM-node-12637887710",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-node-12637887710",
+      "name": "Sarapan Pagi Buk Yus",
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.4766204,
+      "longitude": 101.4980688,
+      "cuisine": [
+        "indonesian"
+      ],
+      "cuisine_raw": "indonesian",
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/node/12637887710",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  },
+  {
+    "restaurant_id": "MY-OSM-node-12637887725",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-node-12637887725",
+      "name": "Sarapan Pagi Oma",
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.4768675,
+      "longitude": 101.4977948,
+      "cuisine": [],
+      "cuisine_raw": null,
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/node/12637887725",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  },
+  {
+    "restaurant_id": "MY-OSM-node-12637887727",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-node-12637887727",
+      "name": "Ampera Rasokanlah Dulu",
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.4767985,
+      "longitude": 101.4975143,
+      "cuisine": [
+        "indonesian",
+        "padang"
+      ],
+      "cuisine_raw": "indonesian;padang",
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/node/12637887727",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  },
+  {
+    "restaurant_id": "MY-OSM-node-12637887732",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-node-12637887732",
+      "name": "Warung Soto Bunda",
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.4770799,
+      "longitude": 101.4973506,
+      "cuisine": [],
+      "cuisine_raw": null,
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/node/12637887732",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  },
+  {
+    "restaurant_id": "MY-OSM-node-12637887749",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-node-12637887749",
+      "name": "Ampera 10000",
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.4771637,
+      "longitude": 101.496537,
+      "cuisine": [
+        "indonesian"
+      ],
+      "cuisine_raw": "indonesian",
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/node/12637887749",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  },
+  {
+    "restaurant_id": "MY-OSM-node-12637887755",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-node-12637887755",
+      "name": "Nasi Goreng Da-N",
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.4772478,
+      "longitude": 101.4963391,
+      "cuisine": [],
+      "cuisine_raw": null,
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/node/12637887755",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  },
+  {
+    "restaurant_id": "MY-OSM-node-12637887756",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-node-12637887756",
+      "name": "Dwi Putra",
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.4772361,
+      "longitude": 101.4963823,
+      "cuisine": [
+        "breakfast"
+      ],
+      "cuisine_raw": "breakfast",
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/node/12637887756",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  },
+  {
+    "restaurant_id": "MY-OSM-node-12637887766",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-node-12637887766",
+      "name": "Warung Kopi 3 Bersaudara",
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.4772787,
+      "longitude": 101.495922,
+      "cuisine": [
+        "coffee_shop"
+      ],
+      "cuisine_raw": "coffee_shop",
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/node/12637887766",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  },
+  {
+    "restaurant_id": "MY-OSM-node-6031343985",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-node-6031343985",
+      "name": "RM Sepakat",
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.474385,
+      "longitude": 101.5147037,
+      "cuisine": [],
+      "cuisine_raw": null,
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/node/6031343985",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  },
+  {
+    "restaurant_id": "MY-OSM-way-1318923919",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-way-1318923919",
+      "name": null,
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.4703834,
+      "longitude": 101.5017955,
+      "cuisine": [],
+      "cuisine_raw": null,
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/way/1318923919",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  },
+  {
+    "restaurant_id": "MY-OSM-way-1381055799",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-way-1381055799",
+      "name": "Bakso 31",
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.468003,
+      "longitude": 101.5104162,
+      "cuisine": [
+        "noodle"
+      ],
+      "cuisine_raw": "noodle",
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/way/1381055799",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  },
+  {
+    "restaurant_id": "MY-OSM-way-1386883554",
+    "errors": [
+      "latitude outside Malaysia bounds"
+    ],
+    "diagnosis": "second_area_named_kulim_near_0.47N_101.5E",
+    "record": {
+      "restaurant_id": "MY-OSM-way-1386883554",
+      "name": "Hanafa Smoothies",
+      "country_code": "MY",
+      "state": null,
+      "city": null,
+      "area_query": "Kulim",
+      "location_evidence": "area_query",
+      "location_verified": false,
+      "address": null,
+      "latitude": 0.4986146,
+      "longitude": 101.481055,
+      "cuisine": [
+        "juice"
+      ],
+      "cuisine_raw": "juice",
+      "price_range_myr": {
+        "min": null,
+        "max": null,
+        "basis": "unknown",
+        "status": "not_verified"
+      },
+      "suitable_for_family": "not_verified",
+      "halal_status": {
+        "status": "not_verified",
+        "verified_at": null,
+        "source_url": null
+      },
+      "description": null,
+      "sources": [
+        {
+          "source_name": "OpenStreetMap",
+          "source_url": "https://www.openstreetmap.org/way/1386883554",
+          "license": "ODbL",
+          "collected_at": "2026-10-09T16:17:29.426614+00:00",
+          "fields": [
+            "name",
+            "amenity",
+            "latitude",
+            "longitude",
+            "cuisine_raw",
+            "address_raw",
+            "area_query"
+          ]
+        }
+      ],
+      "record_status": "needs_review"
+    }
+  }
+]

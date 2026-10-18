@@ -1,0 +1,87 @@
+{
+  "unique_street_rows": 800,
+  "groups": 2,
+  "groups_detail": [
+    {
+      "restaurant_name": "RSMY",
+      "source_city": "KL",
+      "location_text": "11&13, Jalan Medan Tuanku, Medan Tuanku, Kuala Lumpur, Federal Territory of Kuala Lumpur",
+      "attached_id": null,
+      "attached_address": null,
+      "attached_regions": null,
+      "review_rows": 500,
+      "sample_review_ids": [
+        "RV-e7da03627a69d970",
+        "RV-f56805214de2884f",
+        "RV-408a162f3a033e3f"
+      ],
+      "location_tokens": [
+        "medan",
+        "tuanku"
+      ],
+      "candidates": [
+        {
+          "restaurant_id": "MY-OSM-node-3446379359",
+          "address": "Jalan Bunus 6",
+          "regions": [
+            "kuala_lumpur"
+          ],
+          "overlap": [],
+          "attached": false
+        },
+        {
+          "restaurant_id": "MY-OSM-node-6620552485",
+          "address": "Jalan Medan Tuanku",
+          "regions": [
+            "kuala_lumpur"
+          ],
+          "overlap": [
+            "medan",
+            "tuanku"
+          ],
+          "attached": false
+        }
+      ]
+    },
+    {
+      "restaurant_name": "ABC Bistro Cafe",
+      "source_city": "Petaling Jaya",
+      "location_text": "106, Jalan Tun Sambanthan, Brickfields, Kuala Lumpur, Federal Territory of Kuala Lumpur",
+      "attached_id": null,
+      "attached_address": null,
+      "attached_regions": null,
+      "review_rows": 300,
+      "sample_review_ids": [
+        "RV-b7da7bece477c04d",
+        "RV-6fb5b38aa5cd32a9",
+        "RV-d4c94c5ce4e8f315"
+      ],
+      "location_tokens": [
+        "brickfields",
+        "sambanthan"
+      ],
+      "candidates": [
+        {
+          "restaurant_id": "MY-OSM-node-10833459765",
+          "address": "",
+          "regions": [
+            "kuala_lumpur"
+          ],
+          "overlap": [],
+          "attached": false
+        },
+        {
+          "restaurant_id": "MY-OSM-node-5328588221",
+          "address": "Jalan Tun Sambanthan, 50470",
+          "regions": [
+            "kuala_lumpur"
+          ],
+          "overlap": [
+            "sambanthan"
+          ],
+          "attached": false
+        }
+      ]
+    }
+  ]
+}

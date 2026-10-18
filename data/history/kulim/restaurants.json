@@ -1,0 +1,4574 @@
+[
+  {
+    "restaurant_id": "MY-OSM-node-12313717405",
+    "name": "故乡味粿條屋/HomeTown Koay Teow Kopitiam",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3780386,
+    "longitude": 100.5402402,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/12313717405",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-12350340631",
+    "name": "KFC",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3720924,
+    "longitude": 100.5543634,
+    "cuisine": [
+      "chicken"
+    ],
+    "cuisine_raw": "chicken",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/12350340631",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-12646998557",
+    "name": "Mixue",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4290424,
+    "longitude": 100.5348484,
+    "cuisine": [
+      "ice_cream",
+      "bubble_tea"
+    ],
+    "cuisine_raw": "ice_cream;bubble_tea",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/12646998557",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-12650204557",
+    "name": "ZUS Coffee",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3722044,
+    "longitude": 100.5550084,
+    "cuisine": [
+      "coffee_shop"
+    ],
+    "cuisine_raw": "coffee_shop",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/12650204557",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-13325277801",
+    "name": "Min Yen Restaurant",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": "Lorong Selasih C/1",
+    "latitude": 5.3774251,
+    "longitude": 100.5378588,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/13325277801",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-13390680006",
+    "name": "小人国 小小煮炒",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4300296,
+    "longitude": 100.5331237,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/13390680006",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-1603441541",
+    "name": "Nasi Kandar",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3686435,
+    "longitude": 100.5566729,
+    "cuisine": [
+      "malay/indian"
+    ],
+    "cuisine_raw": "malay/indian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/1603441541",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-1603441545",
+    "name": "Nasi Kandar Pelita",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3690524,
+    "longitude": 100.556324,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/1603441545",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-1603441551",
+    "name": "Soong Xian",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3788736,
+    "longitude": 100.542507,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/1603441551",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-1603441564",
+    "name": "Cendol",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3573346,
+    "longitude": 100.5427156,
+    "cuisine": [
+      "cendol"
+    ],
+    "cuisine_raw": "cendol",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/1603441564",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-1603441721",
+    "name": null,
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3701556,
+    "longitude": 100.5537649,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/1603441721",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-1603441725",
+    "name": "Soon Lee",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.37091,
+    "longitude": 100.554596,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/1603441725",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-1610799528",
+    "name": "新记园海鲜饭店/Sin Kee Guan Resturant",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3779129,
+    "longitude": 100.5402028,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/1610799528",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-1610799573",
+    "name": "Nasi Lemak Mummy",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3568068,
+    "longitude": 100.5424459,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/1610799573",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-1610800642",
+    "name": "宝宝饮食中心",
+    "country_code": "MY",
+    "state": "Kedah",
+    "city": "Kulim Kedah",
+    "area_query": "Kulim",
+    "location_evidence": "address",
+    "location_verified": false,
+    "address": "Lorong Selasih 2a/1, 09000",
+    "latitude": 5.3766793,
+    "longitude": 100.5388375,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/1610800642",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query",
+          "city"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-3592093436",
+    "name": "Tai Kah Hou Food & Drinks",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4297621,
+    "longitude": 100.5333774,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/3592093436",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-3619067505",
+    "name": "Kedai Makanan dan Minuman",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4405335,
+    "longitude": 100.5370749,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/3619067505",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-3619158084",
+    "name": "Smokehouse Restaurant",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4284294,
+    "longitude": 100.5355598,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/3619158084",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-3946503060",
+    "name": "Desa Lunas Seafood",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4362057,
+    "longitude": 100.5369417,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/3946503060",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4038157989",
+    "name": "Hock Kee",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4299707,
+    "longitude": 100.5327285,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4038157989",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4038205289",
+    "name": "Shui Kopitiam",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4294466,
+    "longitude": 100.5337314,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4038205289",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4038256789",
+    "name": "Hun Tai",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4301424,
+    "longitude": 100.5324948,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4038256789",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4038356736",
+    "name": "Restoran Itik Panggang Tan Kee",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4290688,
+    "longitude": 100.5347385,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4038356736",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4038474578",
+    "name": "Medan Selera Taman Tunku Putra",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3728777,
+    "longitude": 100.5574878,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4038474578",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4583709974",
+    "name": "Nam King",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.512595,
+    "longitude": 100.5544591,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4583709974",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4583709987",
+    "name": "Kopitiam",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.5110968,
+    "longitude": 100.5576521,
+    "cuisine": [
+      "chinese",
+      "coffee_shop"
+    ],
+    "cuisine_raw": "chinese;coffee_shop",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4583709987",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4583710706",
+    "name": null,
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.5265013,
+    "longitude": 100.572573,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4583710706",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4585534716",
+    "name": null,
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3450478,
+    "longitude": 100.538118,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4585534716",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4638905269",
+    "name": "Nasi Kandar",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4188422,
+    "longitude": 100.5384781,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4638905269",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4638905272",
+    "name": null,
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4138217,
+    "longitude": 100.5421096,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4638905272",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4638905273",
+    "name": "Original Coconut Shake",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4137075,
+    "longitude": 100.5421261,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4638905273",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4638905275",
+    "name": null,
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4127041,
+    "longitude": 100.544095,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4638905275",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4638905279",
+    "name": "Restoran Kak Wan",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.411359,
+    "longitude": 100.5460741,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4638905279",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4638906571",
+    "name": null,
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4238215,
+    "longitude": 100.5372331,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4638906571",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4638930127",
+    "name": null,
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4299014,
+    "longitude": 100.5327167,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4638930127",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4638930132",
+    "name": "Is We Dessert Cafe",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.429682,
+    "longitude": 100.5326655,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4638930132",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4638930133",
+    "name": null,
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4291174,
+    "longitude": 100.5324904,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4638930133",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4638930138",
+    "name": "Restoran Leong Kam Chuan",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4293921,
+    "longitude": 100.5328092,
+    "cuisine": [
+      "chinese",
+      "coffee_shop"
+    ],
+    "cuisine_raw": "chinese;coffee_shop",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4638930138",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4638930143",
+    "name": "Seeni Mohamed Saga Ambalam",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": "09600",
+    "latitude": 5.4294079,
+    "longitude": 100.533195,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4638930143",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4638930151",
+    "name": "Poh Family Restaurant",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4293811,
+    "longitude": 100.5348791,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4638930151",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4638930153",
+    "name": "Restoran Hong Seng",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4293722,
+    "longitude": 100.5349752,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4638930153",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4644802623",
+    "name": "Ken Fah Hen",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.5118678,
+    "longitude": 100.5544499,
+    "cuisine": [
+      "chinese",
+      "coffee_shop"
+    ],
+    "cuisine_raw": "chinese;coffee_shop",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4644802623",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4644802667",
+    "name": "Laila Tomyam",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4823896,
+    "longitude": 100.5433204,
+    "cuisine": [
+      "malaysian",
+      "thai"
+    ],
+    "cuisine_raw": "malaysian;thai",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4644802667",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4665596042",
+    "name": "Eman's Kitchen",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.375492,
+    "longitude": 100.5389632,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4665596042",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4665596205",
+    "name": "Nasi Kandar Shasima",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3846301,
+    "longitude": 100.5461367,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4665596205",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4665596211",
+    "name": "Domino's",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3860593,
+    "longitude": 100.5454064,
+    "cuisine": [
+      "pizza"
+    ],
+    "cuisine_raw": "pizza",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4665596211",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4665596213",
+    "name": "Pizza Hut",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.386241,
+    "longitude": 100.5466947,
+    "cuisine": [
+      "pizza"
+    ],
+    "cuisine_raw": "pizza",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4665596213",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4665596214",
+    "name": "KFC",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3856775,
+    "longitude": 100.5465889,
+    "cuisine": [
+      "chicken"
+    ],
+    "cuisine_raw": "chicken",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4665596214",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4665596215",
+    "name": "6666 Seafood",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3875505,
+    "longitude": 100.5465823,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4665596215",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4665596216",
+    "name": "Bawal Goreng Panas Pak Teh",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3941006,
+    "longitude": 100.5471024,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4665596216",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4670360931",
+    "name": "Medan Selera Jalan Junjung",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3510358,
+    "longitude": 100.5362251,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4670360931",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4674078465",
+    "name": "Eco Coffee",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.372485,
+    "longitude": 100.5553952,
+    "cuisine": [
+      "coffee_shop"
+    ],
+    "cuisine_raw": "coffee_shop",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4674078465",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4674078475",
+    "name": "Pizza Hut",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3719282,
+    "longitude": 100.5551586,
+    "cuisine": [
+      "pizza"
+    ],
+    "cuisine_raw": "pizza",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4674078475",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4674079068",
+    "name": "Nasi Kandar Mashyur Maju",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3614945,
+    "longitude": 100.5476683,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4674079068",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4674080025",
+    "name": "Restoran Nasi Kandar Kader Mydin",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3692347,
+    "longitude": 100.5545928,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4674080025",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4674917448",
+    "name": null,
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4184809,
+    "longitude": 100.5495596,
+    "cuisine": [
+      "chinese",
+      "coffee_shop"
+    ],
+    "cuisine_raw": "chinese;coffee_shop",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4674917448",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4674917449",
+    "name": "GS Sree Kanthy Restaurant",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4175756,
+    "longitude": 100.5495136,
+    "cuisine": [
+      "indian"
+    ],
+    "cuisine_raw": "indian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4674917449",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4674917724",
+    "name": "Mad Arif Char Kuay Tiaw",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3941723,
+    "longitude": 100.5465351,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4674917724",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4674917725",
+    "name": "Idris Satay",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3918736,
+    "longitude": 100.5466938,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4674917725",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4677605036",
+    "name": "Nasi Ayam Sungai Seluang",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4470204,
+    "longitude": 100.5521247,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4677605036",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4679528389",
+    "name": null,
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3710983,
+    "longitude": 100.5546142,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4679528389",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4914687922",
+    "name": "Full Wealth Restaurant",
+    "country_code": "MY",
+    "state": "Kedah",
+    "city": "Kulim",
+    "area_query": "Kulim",
+    "location_evidence": "address",
+    "location_verified": false,
+    "address": "Lorong Kota Kenari 5/1, 09000",
+    "latitude": 5.3718856,
+    "longitude": 100.5683591,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4914687922",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query",
+          "city"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4961013324",
+    "name": "Restoran Lee Siew Chu",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.5120621,
+    "longitude": 100.5555573,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4961013324",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4961013342",
+    "name": "Restoran Fu Lin Men",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.5113719,
+    "longitude": 100.5569145,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4961013342",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4977019141",
+    "name": null,
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4788474,
+    "longitude": 100.5427779,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4977019141",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4977019163",
+    "name": "Kim Te Garden Restaurant",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.5017966,
+    "longitude": 100.5496082,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4977019163",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4977019168",
+    "name": null,
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.5018046,
+    "longitude": 100.544402,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4977019168",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4977019169",
+    "name": null,
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.5018713,
+    "longitude": 100.5429161,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4977019169",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-4977172971",
+    "name": "Shahira Seafood 2",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4433987,
+    "longitude": 100.5526055,
+    "cuisine": [
+      "malaysian",
+      "thai"
+    ],
+    "cuisine_raw": "malaysian;thai",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/4977172971",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-5008580274",
+    "name": "Sungai Dua Char Koay Teow",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3994978,
+    "longitude": 100.5567723,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/5008580274",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-5055157774",
+    "name": "Kedai Pokok Manggis",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3626771,
+    "longitude": 100.5484575,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/5055157774",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-5248119423",
+    "name": "Nurul Ikan Bakar Special",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4197778,
+    "longitude": 100.538164,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/5248119423",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-5886203805",
+    "name": null,
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3617652,
+    "longitude": 100.5376992,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/5886203805",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-6069943685",
+    "name": "The Six Hunan Ramen",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.5124305,
+    "longitude": 100.6270208,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/6069943685",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-6261555987",
+    "name": "KFC",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.5155389,
+    "longitude": 100.5437335,
+    "cuisine": [
+      "chicken"
+    ],
+    "cuisine_raw": "chicken",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/6261555987",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-7020338111",
+    "name": "Restoran Kong Ming",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3881491,
+    "longitude": 100.5658684,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/7020338111",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-7020374105",
+    "name": null,
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4218992,
+    "longitude": 100.6370365,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/7020374105",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-7134803752",
+    "name": "Kedai Makanan Sayur-Sayuran Ee Sin",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3708457,
+    "longitude": 100.5563296,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/7134803752",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-8762101770",
+    "name": "Mykori Dessert Cafe",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3857306,
+    "longitude": 100.5453313,
+    "cuisine": [
+      "dessert"
+    ],
+    "cuisine_raw": "dessert",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/8762101770",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-8762101771",
+    "name": "Starbucks",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3858464,
+    "longitude": 100.5466741,
+    "cuisine": [
+      "coffee_shop"
+    ],
+    "cuisine_raw": "coffee_shop",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/8762101771",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-8762101772",
+    "name": "The Chicken Rice Shop",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3859561,
+    "longitude": 100.5467895,
+    "cuisine": [
+      "malaysian",
+      "chicken_rice"
+    ],
+    "cuisine_raw": "malaysian;chicken_rice",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/8762101772",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-9571403156",
+    "name": "KFC",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3622731,
+    "longitude": 100.5268864,
+    "cuisine": [
+      "chicken"
+    ],
+    "cuisine_raw": "chicken",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/9571403156",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-9571403264",
+    "name": "96饮食中心/Ninetysix",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3769045,
+    "longitude": 100.5386448,
+    "cuisine": [
+      "chinese"
+    ],
+    "cuisine_raw": "chinese",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/9571403264",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-9678874617",
+    "name": "ROTI CANAI DESAKU",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.5064812,
+    "longitude": 100.6238418,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/9678874617",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-node-9981009023",
+    "name": "Streeto Pizza",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4320827,
+    "longitude": 100.5494687,
+    "cuisine": [
+      "malaysian",
+      "pizza"
+    ],
+    "cuisine_raw": "malaysian;pizza",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/node/9981009023",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-way-1035747892",
+    "name": "KFC",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4125305,
+    "longitude": 100.5446976,
+    "cuisine": [
+      "chicken"
+    ],
+    "cuisine_raw": "chicken",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/way/1035747892",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-way-1035747898",
+    "name": "Medan Selera Lunas",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4284255,
+    "longitude": 100.5364692,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/way/1035747898",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-way-1173967558",
+    "name": "4Fingers Crispy Chicken",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3838922,
+    "longitude": 100.5462663,
+    "cuisine": [
+      "chicken"
+    ],
+    "cuisine_raw": "chicken",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/way/1173967558",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-way-1271924043",
+    "name": "CH Food Factory",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4333634,
+    "longitude": 100.5493937,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/way/1271924043",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-way-1314592288",
+    "name": null,
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3702575,
+    "longitude": 100.5323789,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/way/1314592288",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-way-1327163679",
+    "name": "新西圜飲食城/Selasih foodcourt City",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3765624,
+    "longitude": 100.5374734,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/way/1327163679",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-way-473255715",
+    "name": "Nasi Kandar Haja",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.370403,
+    "longitude": 100.5550751,
+    "cuisine": [
+      "malaysian"
+    ],
+    "cuisine_raw": "malaysian",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/way/473255715",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-way-473365792",
+    "name": "Yi Zhi Yan",
+    "country_code": "MY",
+    "state": "Kedah",
+    "city": "KULIM",
+    "area_query": "Kulim",
+    "location_evidence": "address",
+    "location_verified": false,
+    "address": "Jalan Tunku Putra, 09000",
+    "latitude": 5.3741832,
+    "longitude": 100.5549416,
+    "cuisine": [
+      "asian",
+      "bird_nest"
+    ],
+    "cuisine_raw": "asian;bird_nest",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/way/473365792",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query",
+          "city"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-way-526075457",
+    "name": "McDonald's",
+    "country_code": "MY",
+    "state": "Kedah",
+    "city": "Kulim, Kedah",
+    "area_query": "Kulim",
+    "location_evidence": "address",
+    "location_verified": false,
+    "address": "Jalan Klc 1,, 09000",
+    "latitude": 5.3830623,
+    "longitude": 100.5458609,
+    "cuisine": [
+      "burger"
+    ],
+    "cuisine_raw": "burger",
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/way/526075457",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query",
+          "city"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-way-527804719",
+    "name": "Nasi Kandar Nasmir",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.3801218,
+    "longitude": 100.5432891,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/way/527804719",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  },
+  {
+    "restaurant_id": "MY-OSM-way-668733467",
+    "name": "Dapur Gerabak",
+    "country_code": "MY",
+    "state": null,
+    "city": null,
+    "area_query": "Kulim",
+    "location_evidence": "area_query",
+    "location_verified": false,
+    "address": null,
+    "latitude": 5.4010657,
+    "longitude": 100.5491354,
+    "cuisine": [],
+    "cuisine_raw": null,
+    "price_range_myr": {
+      "min": null,
+      "max": null,
+      "basis": "unknown",
+      "status": "not_verified"
+    },
+    "suitable_for_family": "not_verified",
+    "halal_status": {
+      "status": "not_verified",
+      "verified_at": null,
+      "source_url": null
+    },
+    "description": null,
+    "sources": [
+      {
+        "source_name": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/way/668733467",
+        "license": "ODbL",
+        "collected_at": "2026-10-09T16:17:29.426614+00:00",
+        "fields": [
+          "name",
+          "amenity",
+          "latitude",
+          "longitude",
+          "cuisine_raw",
+          "address_raw",
+          "area_query"
+        ]
+      }
+    ],
+    "record_status": "needs_review"
+  }
+]

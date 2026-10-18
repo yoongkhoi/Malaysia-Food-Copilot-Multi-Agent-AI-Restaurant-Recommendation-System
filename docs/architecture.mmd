@@ -1,0 +1,20 @@
+flowchart TD
+  user[Browser chat] --> vue[Vue CopilotView]
+  vue --> api[POST /api/chat]
+  api --> flags{ENABLE_LANGGRAPH and not ENABLE_LLM_AGENT}
+  flags -->|yes, demo path| graph[discovery_graph]
+  flags -->|LLM agent on| old[agents/graph.py or runtime.py]
+  flags -->|both off| direct[DiscoveryService]
+  graph --> intent[classify_intent]
+  intent -->|general question| general[Python or optional LLM answer]
+  intent -->|restaurant| history[apply_history]
+  history --> filter[hard constraints]
+  filter --> rank[BM25 or baseline]
+  rank --> web{ENABLE_WEB_SEARCH}
+  web -->|on| bing[Bing HTML sources]
+  web -->|off| match[match node]
+  bing --> match
+  match --> answer[deterministic answer text]
+  direct --> answer
+  old --> answer
+  answer --> cards[cards, map pins, evidence lines]

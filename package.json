@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "tsc --noEmit --pretty false"
+  },
+  "dependencies": {
+    "@neon/config": "^1.9.1",
+    "@neon/env": "^1.6.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
